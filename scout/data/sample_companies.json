@@ -9749,6 +9749,45 @@
     "stage": "Seed"
   },
   {
+    "name": "IDEAL Columbus DST",
+    "source": "delaware",
+    "source_id": "0002117190",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-03-06",
+    "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $52,840,000 offering (Series B).",
+    "raw": {
+      "cik": "0002117190",
+      "accession": "0002117190-26-000001:primary_doc.xml",
+      "file_date": "2026-03-06",
+      "file_type": "D",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "CA"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002117190&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Residential",
+      "is_fund": false,
+      "offering_amount": 52840000,
+      "amount_sold": 0,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2117190/000211719026000001/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "Austin Herzog",
+        "role": "Executive Officer",
+        "location": "Clovis, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Austin%20Herzog%20IDEAL%20Columbus%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "McQueen Labs Inc.",
     "source": "delaware",
     "source_id": "0002004478",
@@ -14402,6 +14441,122 @@
       }
     ],
     "stage": "Series A"
+  },
+  {
+    "name": "PEPF Overture Chapel Hill REIT, LLC",
+    "source": "delaware",
+    "source_id": "0002106519",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-29",
+    "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $61,500 raised (Pre-seed).",
+    "raw": {
+      "cik": "0002106519",
+      "accession": "0002106519-26-000001:primary_doc.xml",
+      "file_date": "2026-01-29",
+      "file_type": "D",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "IA"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002106519&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "REITS and Finance",
+      "is_fund": false,
+      "offering_amount": 62500,
+      "amount_sold": 61500,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2106519/000210651926000001/primary_doc.xml",
+      "stage": "Pre-seed"
+    },
+    "founders": [
+      {
+        "name": "TODD EVERETT",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TODD%20EVERETT%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "JOHN BERG",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=JOHN%20BERG%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "CHRIS DUEY",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=CHRIS%20DUEY%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "ERIN KERR",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ERIN%20KERR%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "SANDRA HEILMAN",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SANDRA%20HEILMAN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "BRIAN SANDFORT",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BRIAN%20SANDFORT%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "SARA HOFFMAN",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SARA%20HOFFMAN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "CARA UNDERWOOD",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=CARA%20UNDERWOOD%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "RODNEY VOGEL",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=RODNEY%20VOGEL%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "TODD WHITE",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TODD%20WHITE%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "DEVIN CHEN",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=DEVIN%20CHEN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "RICH HILL",
+        "role": "Executive Officer",
+        "location": "DES MOINES, IA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=RICH%20HILL%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Pre-seed"
   },
   {
     "name": "HSRE Feeder R X, LLC",

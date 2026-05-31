@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-31T18:46:24+00:00",
+  "generated_at": "2026-05-31T19:01:42+00:00",
   "stats": {
-    "total": 489,
+    "total": 496,
     "ai_total": 162,
-    "avg_score": 0.33,
+    "avg_score": 0.326,
     "months": 7,
     "sources": [
       "accelerators",
       "delaware"
     ],
     "pre_form_d": 200,
-    "confirmed_form_d": 289,
+    "confirmed_form_d": 296,
     "probable_safe": 200,
     "merged_duplicates": 0
   },
@@ -20688,6 +20688,96 @@
       "evidence_confidence": "Medium-low"
     },
     {
+      "name": "IDEAL Columbus DST",
+      "source": "delaware",
+      "source_id": "0002117190",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-03-06",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002117190"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $52,840,000 offering (Series B).",
+      "raw": {
+        "cik": "0002117190",
+        "accession": "0002117190-26-000001:primary_doc.xml",
+        "file_date": "2026-03-06",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002117190&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "Residential",
+        "is_fund": false,
+        "offering_amount": 52840000,
+        "amount_sold": 0,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2117190/000211719026000001/primary_doc.xml",
+        "stage": "Series B"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2117190/000211719026000001/primary_doc.xml",
+          "observed_at": "2026-03-06",
+          "confidence": 0.95,
+          "notes": "CIK 0002117190"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "1 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Austin Herzog",
+          "role": "Executive Officer",
+          "location": "Clovis, CA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Austin%20Herzog%20IDEAL%20Columbus%20DST",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-2c1c606dc753",
+      "month": "2026-03",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
       "name": "Warp tech Inc.",
       "source": "delaware",
       "source_id": "0002115863",
@@ -27398,6 +27488,173 @@
       "evidence_confidence": "Medium-low"
     },
     {
+      "name": "PEPF Overture Chapel Hill REIT, LLC",
+      "source": "delaware",
+      "source_id": "0002106519",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002106519"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $61,500 raised (Pre-seed).",
+      "raw": {
+        "cik": "0002106519",
+        "accession": "0002106519-26-000001:primary_doc.xml",
+        "file_date": "2026-01-29",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "IA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002106519&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "REITS and Finance",
+        "is_fund": false,
+        "offering_amount": 62500,
+        "amount_sold": 61500,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2106519/000210651926000001/primary_doc.xml",
+        "stage": "Pre-seed"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2106519/000210651926000001/primary_doc.xml",
+          "observed_at": "2026-01-29",
+          "confidence": 0.95,
+          "notes": "CIK 0002106519"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "12 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "TODD EVERETT",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TODD%20EVERETT%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "JOHN BERG",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=JOHN%20BERG%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "CHRIS DUEY",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=CHRIS%20DUEY%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "ERIN KERR",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=ERIN%20KERR%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "SANDRA HEILMAN",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SANDRA%20HEILMAN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "BRIAN SANDFORT",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=BRIAN%20SANDFORT%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "SARA HOFFMAN",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=SARA%20HOFFMAN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "CARA UNDERWOOD",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=CARA%20UNDERWOOD%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "RODNEY VOGEL",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=RODNEY%20VOGEL%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "TODD WHITE",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=TODD%20WHITE%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "DEVIN CHEN",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=DEVIN%20CHEN%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "RICH HILL",
+          "role": "Executive Officer",
+          "location": "DES MOINES, IA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=RICH%20HILL%20PEPF%20Overture%20Chapel%20Hill%20REIT%2C%20LLC",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-149ab26b25fd",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
       "name": "Gwendolyn Office Co-Investment, LLC",
       "source": "delaware",
       "source_id": "0001975260",
@@ -32598,6 +32855,512 @@
       "competitive": null,
       "recommendation": null,
       "id": "delaware-4b05d2921aa6",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
+      "name": "Architect Financial Technologies Inc.",
+      "source": "delaware",
+      "source_id": "0001953535",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-13",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001953535"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $35,549,952 raised (Series B).",
+      "raw": {
+        "cik": "0001953535",
+        "accession": "0001953535-26-000001:primary_doc.xml",
+        "file_date": "2026-01-13",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "IL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001953535&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "Other Technology",
+        "is_fund": false,
+        "offering_amount": 40549924,
+        "amount_sold": 35549952,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/1953535/000195353526000001/primary_doc.xml",
+        "stage": "Series B"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1953535/000195353526000001/primary_doc.xml",
+          "observed_at": "2026-01-13",
+          "confidence": 0.95,
+          "notes": "CIK 0001953535"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "5 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Brett Harrison",
+          "role": "Executive Officer, Director",
+          "location": "Chicago, IL",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Brett%20Harrison%20Architect%20Financial%20Technologies%20Inc.",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Steven Venino",
+          "role": "Director",
+          "location": "Chicago, IL",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Steven%20Venino%20Architect%20Financial%20Technologies%20Inc.",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Venu Palparthi",
+          "role": "Director",
+          "location": "Chicago, IL",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Venu%20Palparthi%20Architect%20Financial%20Technologies%20Inc.",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Karista Vaeth",
+          "role": "Director",
+          "location": "Chicago, IL",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Karista%20Vaeth%20Architect%20Financial%20Technologies%20Inc.",
+          "source": "sec_filing"
+        },
+        {
+          "name": "John Smollen",
+          "role": "Director",
+          "location": "Chicago, IL",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=John%20Smollen%20Architect%20Financial%20Technologies%20Inc.",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-53712a18482a",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
+      "name": "OnBrand Software, Inc.",
+      "source": "delaware",
+      "source_id": "0002022968",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-13",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002022968"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $3,499,999 raised (Seed).",
+      "raw": {
+        "cik": "0002022968",
+        "accession": "0001470831-26-000027:primary_doc.xml",
+        "file_date": "2026-01-13",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002022968&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "Other Technology",
+        "is_fund": false,
+        "offering_amount": 3499999,
+        "amount_sold": 3499999,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2022968/000147083126000027/primary_doc.xml",
+        "stage": "Seed"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2022968/000147083126000027/primary_doc.xml",
+          "observed_at": "2026-01-13",
+          "confidence": 0.95,
+          "notes": "CIK 0002022968"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "2 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Preston Plowman",
+          "role": "Executive Officer, Director, Promoter",
+          "location": "McKinney, TX",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Preston%20Plowman%20OnBrand%20Software%2C%20Inc.",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Brian Kimball",
+          "role": "Executive Officer, Director, Promoter",
+          "location": "McKinney, TX",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Brian%20Kimball%20OnBrand%20Software%2C%20Inc.",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-48ea3c92c25f",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
+      "name": "ER REIT VI LLC",
+      "source": "delaware",
+      "source_id": "0002104261",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-13",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002104261"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $121,000 raised (Pre-seed).",
+      "raw": {
+        "cik": "0002104261",
+        "accession": "0002104261-26-000001:primary_doc.xml",
+        "file_date": "2026-01-13",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002104261&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "REITS and Finance",
+        "is_fund": false,
+        "offering_amount": 125000,
+        "amount_sold": 121000,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2104261/000210426126000001/primary_doc.xml",
+        "stage": "Pre-seed"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2104261/000210426126000001/primary_doc.xml",
+          "observed_at": "2026-01-13",
+          "confidence": 0.95,
+          "notes": "CIK 0002104261"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "3 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Mark Seelig",
+          "role": "Director",
+          "location": "Plainview, NY",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mark%20Seelig%20ER%20REIT%20VI%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Adam Seelig",
+          "role": "Director",
+          "location": "Plainview, NY",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adam%20Seelig%20ER%20REIT%20VI%20LLC",
+          "source": "sec_filing"
+        },
+        {
+          "name": "James Hausman",
+          "role": "Director",
+          "location": "Plainview, NY",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Hausman%20ER%20REIT%20VI%20LLC",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-70008743c262",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
+      "name": "NexPoint Life Sciences III DST",
+      "source": "delaware",
+      "source_id": "0002008210",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-13",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002008210"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $25,178,789 raised (Series B).",
+      "raw": {
+        "cik": "0002008210",
+        "accession": "0002008210-26-000001:primary_doc.xml",
+        "file_date": "2026-01-13",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002008210&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "Other Real Estate",
+        "is_fund": false,
+        "offering_amount": 30661253,
+        "amount_sold": 25178789,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2008210/000200821026000001/primary_doc.xml",
+        "stage": "Series B"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2008210/000200821026000001/primary_doc.xml",
+          "observed_at": "2026-01-13",
+          "confidence": 0.95,
+          "notes": "CIK 0002008210"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "2 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Brian Mitts",
+          "role": "Executive Officer",
+          "location": "Dallas, TX",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Brian%20Mitts%20NexPoint%20Life%20Sciences%20III%20DST",
+          "source": "sec_filing"
+        },
+        {
+          "name": "Matt McGraner",
+          "role": "Executive Officer",
+          "location": "Dallas, TX",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Matt%20McGraner%20NexPoint%20Life%20Sciences%20III%20DST",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-ec34aa04ba53",
+      "month": "2026-01",
+      "missing_data": [
+        "Website verified",
+        "Accelerator check",
+        "Hiring / jobs scan",
+        "Product launch check"
+      ],
+      "evidence_confidence": "Medium-low"
+    },
+    {
+      "name": "Griffin Capital Qualified Opportunity Zone Fund IV, L.P.",
+      "source": "delaware",
+      "source_id": "0002007564",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-01-13",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002007564"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $342,008,125 raised (Growth).",
+      "raw": {
+        "cik": "0002007564",
+        "accession": "0002007564-26-000001:primary_doc.xml",
+        "file_date": "2026-01-13",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002007564&type=D",
+        "registry": "SEC EDGAR",
+        "industry_group": "Other Real Estate",
+        "is_fund": false,
+        "offering_amount": 500000000,
+        "amount_sold": 342008125,
+        "revenue_range": "",
+        "filing_url": "https://www.sec.gov/Archives/edgar/data/2007564/000200756426000001/primary_doc.xml",
+        "stage": "Growth"
+      },
+      "domain": "",
+      "source_records": [
+        {
+          "source_type": "sec_form_d",
+          "source_name": "SEC EDGAR Form D",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2007564/000200756426000001/primary_doc.xml",
+          "observed_at": "2026-01-13",
+          "confidence": 0.95,
+          "notes": "CIK 0002007564"
+        },
+        {
+          "source_type": "founder_profile",
+          "source_name": "Founder identity",
+          "source_url": "",
+          "observed_at": "2026-05-31",
+          "confidence": 0.7,
+          "notes": "1 named"
+        }
+      ],
+      "source_tier": 1,
+      "financing_stage": "Confirmed Form D",
+      "probable_safe_stage": false,
+      "form_d_found": true,
+      "evidence_score": 35,
+      "badges": [
+        "Confirmed Form D",
+        "Founder verified"
+      ],
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [
+        {
+          "name": "Kevin Shields",
+          "role": "Executive Officer",
+          "location": "El Segundo, CA",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kevin%20Shields%20Griffin%20Capital%20Qualified%20Opportunity%20Zone%20Fund%20IV%2C%20L.P.",
+          "source": "sec_filing"
+        }
+      ],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-272860a45620",
       "month": "2026-01",
       "missing_data": [
         "Website verified",
@@ -56176,12 +56939,10 @@
       "jurisdiction": "United States of America",
       "formation_date": "2025-06-01",
       "discovered_date": "2026-05-31",
-      "website": "https://www.theinterface.com",
-      "website_verified": true,
-      "verified_real": true,
-      "verification": [
-        "Live website (www.theinterface.com)"
-      ],
+      "website": null,
+      "website_verified": false,
+      "verified_real": false,
+      "verification": [],
       "description": "The world model research lab",
       "raw": {
         "accelerator": "Y Combinator",
@@ -56215,14 +56976,6 @@
           "notes": "Summer 2025 batch"
         },
         {
-          "source_type": "website",
-          "source_name": "Company website",
-          "source_url": "https://www.theinterface.com",
-          "observed_at": "2026-05-31",
-          "confidence": 0.8,
-          "notes": "live site verified"
-        },
-        {
           "source_type": "job_posting",
           "source_name": "YC Work at a Startup",
           "source_url": "https://www.ycombinator.com/companies/theinterface/jobs",
@@ -56235,12 +56988,11 @@
       "financing_stage": "Probable SAFE-stage",
       "probable_safe_stage": true,
       "form_d_found": false,
-      "evidence_score": 50,
+      "evidence_score": 15,
       "badges": [
         "No Form D found",
         "Probable SAFE-stage",
         "Accelerator-backed",
-        "Website verified",
         "Hiring signal"
       ],
       "ai_score": 0.495,
@@ -56259,10 +57011,11 @@
       "month": "2025-06",
       "missing_data": [
         "Form D / financing check",
+        "Website verified",
         "Founder verification",
         "Product launch check"
       ],
-      "evidence_confidence": "Medium"
+      "evidence_confidence": "Low"
     },
     {
       "name": "Tornyol",
