@@ -1,0 +1,6 @@
+# Core pipeline runs on the Python standard library only (no install required).
+# The packages below are OPTIONAL and only needed for stretch features.
+
+# Optional: LLM-powered classification and investment-memo research agent.
+# Set OPENAI_API_KEY and pass --llm to enable. Falls back to heuristics if absent.
+openai>=1.0.0

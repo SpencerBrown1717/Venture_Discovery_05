@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Incorporation Scout</title>
+  <meta name="description" content="Autonomous discovery of newly formed AI companies before they hit mainstream databases." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-grid" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">◎</div>
+      <div>
+        <h1>AI Incorporation Scout</h1>
+        <p class="tagline">Discovering newly formed AI companies before everyone else.</p>
+      </div>
+    </div>
+    <div class="meta" id="generatedAt"></div>
+  </header>
+
+  <main>
+    <!-- Stat cards -->
+    <section class="stats" id="stats" aria-label="Summary statistics"></section>
+
+    <!-- Trends -->
+    <section class="panel" id="trendsPanel">
+      <div class="panel-head">
+        <h2>Trend Intelligence</h2>
+        <span class="hint">AI formation momentum over time · stretch goal 6</span>
+      </div>
+      <div class="trends-grid">
+        <div class="trend-card">
+          <h3>AI discoveries by month</h3>
+          <div class="bars" id="monthBars"></div>
+        </div>
+        <div class="trend-card">
+          <h3>Top categories</h3>
+          <div class="catlist" id="catList"></div>
+        </div>
+        <div class="trend-card">
+          <h3>Momentum (MoM)</h3>
+          <div class="momentum" id="momentum"></div>
+        </div>
+        <div class="trend-card">
+          <h3>Top geographies</h3>
+          <div class="catlist" id="geoList"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls">
+      <div class="search-wrap">
+        <input
+          id="search"
+          type="search"
+          placeholder="Ask: &quot;AI infrastructure companies founded this month&quot; or &quot;developer tools last 30 days&quot;"
+          autocomplete="off"
+        />
+        <div class="examples" id="examples"></div>
+      </div>
+
+      <div class="filters">
+        <label class="toggle">
+          <input type="checkbox" id="aiOnly" checked />
+          <span>AI only</span>
+        </label>
+        <select id="category" aria-label="Category filter"></select>
+        <select id="month" aria-label="Month filter"></select>
+        <select id="sort" aria-label="Sort">
+          <option value="score">Sort: Confidence ↓</option>
+          <option value="date">Sort: Formation date ↓</option>
+          <option value="name">Sort: Name A→Z</option>
+        </select>
+        <label class="slider">
+          Min confidence <b id="minScoreLabel">0%</b>
+          <input type="range" id="minScore" min="0" max="100" value="0" />
+        </label>
+      </div>
+    </section>
+
+    <div class="resultmeta" id="resultMeta"></div>
+
+    <!-- Company groups -->
+    <section id="groups" class="groups"></section>
+    <div id="empty" class="empty" hidden>No companies match these filters.</div>
+  </main>
+
+  <!-- Memo drawer -->
+  <div class="drawer-overlay" id="drawerOverlay" hidden></div>
+  <aside class="drawer" id="drawer" hidden aria-label="Investment memo"></aside>
+
+  <footer class="footer">
+    <span>Static dashboard · data precomputed by the Python scout agent · deploy on GitHub Pages.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

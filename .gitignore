@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.DS_Store
+# Keep the exported dashboard data committed so GitHub Pages always has data.
+!dashboard/data.json

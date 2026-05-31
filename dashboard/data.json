@@ -1,0 +1,1606 @@
+{
+  "generated_at": "2026-05-31T16:49:54+00:00",
+  "stats": {
+    "total": 41,
+    "ai_total": 20,
+    "avg_score": 0.482,
+    "months": 8,
+    "sources": [
+      "sample"
+    ]
+  },
+  "months": [
+    "2026-05",
+    "2026-04",
+    "2026-03",
+    "2026-02",
+    "2026-01",
+    "2025-12",
+    "2025-11",
+    "2025-10"
+  ],
+  "trends": {
+    "ai_by_month": [
+      {
+        "month": "2025-10",
+        "count": 4
+      },
+      {
+        "month": "2025-11",
+        "count": 4
+      },
+      {
+        "month": "2025-12",
+        "count": 1
+      },
+      {
+        "month": "2026-01",
+        "count": 2
+      },
+      {
+        "month": "2026-02",
+        "count": 1
+      },
+      {
+        "month": "2026-03",
+        "count": 4
+      },
+      {
+        "month": "2026-05",
+        "count": 4
+      }
+    ],
+    "categories": [
+      {
+        "category": "AI Infrastructure",
+        "count": 6
+      },
+      {
+        "category": "Developer Tools",
+        "count": 4
+      },
+      {
+        "category": "AI Agents",
+        "count": 2
+      },
+      {
+        "category": "Fintech AI",
+        "count": 2
+      },
+      {
+        "category": "Computer Vision",
+        "count": 2
+      },
+      {
+        "category": "Robotics",
+        "count": 1
+      },
+      {
+        "category": "Healthcare AI",
+        "count": 1
+      },
+      {
+        "category": "Data / Analytics",
+        "count": 1
+      },
+      {
+        "category": "NLP / Language",
+        "count": 1
+      }
+    ],
+    "geography": [
+      {
+        "jurisdiction": "Paris, FR",
+        "count": 4
+      },
+      {
+        "jurisdiction": "California, USA",
+        "count": 3
+      },
+      {
+        "jurisdiction": "Washington, USA",
+        "count": 2
+      },
+      {
+        "jurisdiction": "Toronto, CA",
+        "count": 2
+      },
+      {
+        "jurisdiction": "Texas, USA",
+        "count": 2
+      },
+      {
+        "jurisdiction": "Berlin, DE",
+        "count": 2
+      },
+      {
+        "jurisdiction": "London, UK",
+        "count": 1
+      },
+      {
+        "jurisdiction": "Massachusetts, USA",
+        "count": 1
+      },
+      {
+        "jurisdiction": "Delaware, USA",
+        "count": 1
+      },
+      {
+        "jurisdiction": "New York, USA",
+        "count": 1
+      }
+    ],
+    "accelerating": [
+      {
+        "category": "Healthcare AI",
+        "current": 1,
+        "previous": 0,
+        "delta": 1
+      },
+      {
+        "category": "Developer Tools",
+        "current": 1,
+        "previous": 0,
+        "delta": 1
+      }
+    ],
+    "cooling": [
+      {
+        "category": "AI Agents",
+        "current": 0,
+        "previous": 1,
+        "delta": -1
+      },
+      {
+        "category": "Fintech AI",
+        "current": 0,
+        "previous": 1,
+        "delta": -1
+      }
+    ]
+  },
+  "companies": [
+    {
+      "name": "Forge Agentic",
+      "source": "sample",
+      "source_id": "sample-4226174",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2026-03-26",
+      "discovered_date": "2026-05-31",
+      "website": "https://forgeagentic.ai",
+      "description": "Agentic workflow automation framework with tool use and long-horizon planning.",
+      "raw": {
+        "name": "Forge Agentic",
+        "source_id": "sample-4226174",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2026-03-26",
+        "website": "https://forgeagentic.ai",
+        "description": "Agentic workflow automation framework with tool use and long-horizon planning."
+      },
+      "ai_score": 0.9996,
+      "is_ai": true,
+      "ai_signals": [
+        "agentic (name)",
+        "ai (website)",
+        "agentic (description)",
+        "automation (description)"
+      ],
+      "ai_category": "AI Agents",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Agentic workflow automation framework with tool use and long-horizon planning.",
+        "market_category": "AI Agents",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Forge Agentic surfaced via sample as a newly formed entity in Paris, FR. Classifier confidence that it is AI-related is high (100%), best fitting the AI Agents category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: agentic (name), ai (website), agentic (description), automation (description). Market read: Early, fast-moving category; differentiation hinges on reliability, distribution, and a defensible workflow wedge.",
+        "market_note": "Early, fast-moving category; differentiation hinges on reliability, distribution, and a defensible workflow wedge.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "agentic (name)",
+          "ai (website)",
+          "agentic (description)",
+          "automation (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-377a91c4eb36",
+      "month": "2026-03"
+    },
+    {
+      "name": "Glia Neural",
+      "source": "sample",
+      "source_id": "sample-7645511",
+      "jurisdiction": "London, UK",
+      "formation_date": "2025-10-15",
+      "discovered_date": "2026-05-31",
+      "website": "https://glianeural.ai",
+      "description": "Neural network accelerators and an inference runtime for edge devices.",
+      "raw": {
+        "name": "Glia Neural",
+        "source_id": "sample-7645511",
+        "jurisdiction": "London, UK",
+        "formation_date": "2025-10-15",
+        "website": "https://glianeural.ai",
+        "description": "Neural network accelerators and an inference runtime for edge devices."
+      },
+      "ai_score": 0.9976,
+      "is_ai": true,
+      "ai_signals": [
+        "neural (name)",
+        "ai (website)",
+        "neural network (description)",
+        "neural (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Neural network accelerators and an inference runtime for edge devices.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Glia Neural surfaced via sample as a newly formed entity in London, UK. Classifier confidence that it is AI-related is high (100%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: neural (name), ai (website), neural network (description), neural (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "neural (name)",
+          "ai (website)",
+          "neural network (description)",
+          "neural (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-b5fdce75a3f4",
+      "month": "2025-10"
+    },
+    {
+      "name": "Orchard Computer Vision",
+      "source": "sample",
+      "source_id": "sample-6554219",
+      "jurisdiction": "Washington, USA",
+      "formation_date": "2026-05-07",
+      "discovered_date": "2026-05-31",
+      "website": "https://orchardcv.com",
+      "description": "Computer vision for precision agriculture: crop health and yield detection.",
+      "raw": {
+        "name": "Orchard Computer Vision",
+        "source_id": "sample-6554219",
+        "jurisdiction": "Washington, USA",
+        "formation_date": "2026-05-07",
+        "website": "https://orchardcv.com",
+        "description": "Computer vision for precision agriculture: crop health and yield detection."
+      },
+      "ai_score": 0.9949,
+      "is_ai": true,
+      "ai_signals": [
+        "computer vision (name)",
+        "computer vision (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Computer vision for precision agriculture: crop health and yield detection.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Orchard Computer Vision surfaced via sample as a newly formed entity in Washington, USA. Classifier confidence that it is AI-related is high (99%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: computer vision (name), computer vision (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "computer vision (name)",
+          "computer vision (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-a63518c25f10",
+      "month": "2026-05"
+    },
+    {
+      "name": "Kindred Care Copilot",
+      "source": "sample",
+      "source_id": "sample-9691178",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2025-11-26",
+      "discovered_date": "2026-05-31",
+      "website": "https://kindredcare.ai",
+      "description": "AI patient-triage copilot for primary care clinics and telehealth.",
+      "raw": {
+        "name": "Kindred Care Copilot",
+        "source_id": "sample-9691178",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2025-11-26",
+        "website": "https://kindredcare.ai",
+        "description": "AI patient-triage copilot for primary care clinics and telehealth."
+      },
+      "ai_score": 0.9846,
+      "is_ai": true,
+      "ai_signals": [
+        "copilot (name)",
+        "ai (website)",
+        "ai (description)",
+        "copilot (description)"
+      ],
+      "ai_category": "Developer Tools",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "AI patient-triage copilot for primary care clinics and telehealth.",
+        "market_category": "Developer Tools",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Kindred Care Copilot surfaced via sample as a newly formed entity in Paris, FR. Classifier confidence that it is AI-related is high (98%), best fitting the Developer Tools category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: copilot (name), ai (website), ai (description), copilot (description). Market read: Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "market_note": "Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "copilot (name)",
+          "ai (website)",
+          "ai (description)",
+          "copilot (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-5a56b578e428",
+      "month": "2025-11"
+    },
+    {
+      "name": "Mistwave Robotics",
+      "source": "sample",
+      "source_id": "sample-8214273",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2026-01-28",
+      "discovered_date": "2026-05-31",
+      "website": "https://mistwave.io",
+      "description": "Autonomous mobile robots for warehouse picking using reinforcement learning.",
+      "raw": {
+        "name": "Mistwave Robotics",
+        "source_id": "sample-8214273",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2026-01-28",
+        "website": "https://mistwave.io",
+        "description": "Autonomous mobile robots for warehouse picking using reinforcement learning."
+      },
+      "ai_score": 0.9834,
+      "is_ai": true,
+      "ai_signals": [
+        "robotics (name)",
+        "reinforcement learning (description)",
+        "autonomous (description)"
+      ],
+      "ai_category": "Robotics",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Autonomous mobile robots for warehouse picking using reinforcement learning.",
+        "market_category": "Robotics",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Mistwave Robotics surfaced via sample as a newly formed entity in Paris, FR. Classifier confidence that it is AI-related is high (98%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name), reinforcement learning (description), autonomous (description). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
+        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
+        "risks": [
+          "Hardware capital intensity and long deployment cycles."
+        ],
+        "signals": [
+          "robotics (name)",
+          "reinforcement learning (description)",
+          "autonomous (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-e2439d4a81f2",
+      "month": "2026-01"
+    },
+    {
+      "name": "Lattice Inference Labs",
+      "source": "sample",
+      "source_id": "sample-6170276",
+      "jurisdiction": "Massachusetts, USA",
+      "formation_date": "2026-01-18",
+      "discovered_date": "2026-05-31",
+      "website": "https://latticeinfer.ai",
+      "description": "High-throughput LLM inference engine with speculative decoding for cheaper serving.",
+      "raw": {
+        "name": "Lattice Inference Labs",
+        "source_id": "sample-6170276",
+        "jurisdiction": "Massachusetts, USA",
+        "formation_date": "2026-01-18",
+        "website": "https://latticeinfer.ai",
+        "description": "High-throughput LLM inference engine with speculative decoding for cheaper serving."
+      },
+      "ai_score": 0.9824,
+      "is_ai": true,
+      "ai_signals": [
+        "ai (website)",
+        "llm (description)",
+        "inference engine (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "High-throughput LLM inference engine with speculative decoding for cheaper serving.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Lattice Inference Labs surfaced via sample as a newly formed entity in Massachusetts, USA. Classifier confidence that it is AI-related is high (98%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: ai (website), llm (description), inference engine (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "ai (website)",
+          "llm (description)",
+          "inference engine (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-7550b7b1bf01",
+      "month": "2026-01"
+    },
+    {
+      "name": "Quanta MLOps",
+      "source": "sample",
+      "source_id": "sample-6054203",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2025-12-21",
+      "discovered_date": "2026-05-31",
+      "website": "https://quantamlops.io",
+      "description": "MLOps platform for model serving, monitoring, and drift detection at scale.",
+      "raw": {
+        "name": "Quanta MLOps",
+        "source_id": "sample-6054203",
+        "jurisdiction": "Delaware, USA",
+        "formation_date": "2025-12-21",
+        "website": "https://quantamlops.io",
+        "description": "MLOps platform for model serving, monitoring, and drift detection at scale."
+      },
+      "ai_score": 0.9707,
+      "is_ai": true,
+      "ai_signals": [
+        "mlops (name)",
+        "mlops (description)",
+        "model (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "MLOps platform for model serving, monitoring, and drift detection at scale.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Quanta MLOps surfaced via sample as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is high (97%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: mlops (name), mlops (description), model (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "mlops (name)",
+          "mlops (description)",
+          "model (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-3d5b6018f6c0",
+      "month": "2025-12"
+    },
+    {
+      "name": "Pulse Trading Intelligence",
+      "source": "sample",
+      "source_id": "sample-395146",
+      "jurisdiction": "Toronto, CA",
+      "formation_date": "2026-03-16",
+      "discovered_date": "2026-05-31",
+      "website": "https://pulsetrading.ai",
+      "description": "Reinforcement learning trading signals for systematic crypto strategies.",
+      "raw": {
+        "name": "Pulse Trading Intelligence",
+        "source_id": "sample-395146",
+        "jurisdiction": "Toronto, CA",
+        "formation_date": "2026-03-16",
+        "website": "https://pulsetrading.ai",
+        "description": "Reinforcement learning trading signals for systematic crypto strategies."
+      },
+      "ai_score": 0.9561,
+      "is_ai": true,
+      "ai_signals": [
+        "intelligence (name)",
+        "ai (website)",
+        "reinforcement learning (description)"
+      ],
+      "ai_category": "Fintech AI",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Reinforcement learning trading signals for systematic crypto strategies.",
+        "market_category": "Fintech AI",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Pulse Trading Intelligence surfaced via sample as a newly formed entity in Toronto, CA. Classifier confidence that it is AI-related is high (96%), best fitting the Fintech AI category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: intelligence (name), ai (website), reinforcement learning (description). Market read: High willingness-to-pay and clear ROI, offset by regulatory scrutiny and incumbent data advantages.",
+        "market_note": "High willingness-to-pay and clear ROI, offset by regulatory scrutiny and incumbent data advantages.",
+        "risks": [
+          "Regulatory and compliance overhead can slow go-to-market."
+        ],
+        "signals": [
+          "intelligence (name)",
+          "ai (website)",
+          "reinforcement learning (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-fbbcf964f621",
+      "month": "2026-03"
+    },
+    {
+      "name": "Solace Health AI",
+      "source": "sample",
+      "source_id": "sample-4600931",
+      "jurisdiction": "New York, USA",
+      "formation_date": "2025-10-28",
+      "discovered_date": "2026-05-31",
+      "website": "https://solacehealth.ai",
+      "description": "Clinical documentation copilot that drafts notes from ambient visit audio.",
+      "raw": {
+        "name": "Solace Health AI",
+        "source_id": "sample-4600931",
+        "jurisdiction": "New York, USA",
+        "formation_date": "2025-10-28",
+        "website": "https://solacehealth.ai",
+        "description": "Clinical documentation copilot that drafts notes from ambient visit audio."
+      },
+      "ai_score": 0.9334,
+      "is_ai": true,
+      "ai_signals": [
+        "ai (name)",
+        "ai (website)",
+        "copilot (description)"
+      ],
+      "ai_category": "Developer Tools",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Clinical documentation copilot that drafts notes from ambient visit audio.",
+        "market_category": "Developer Tools",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Solace Health AI surfaced via sample as a newly formed entity in New York, USA. Classifier confidence that it is AI-related is high (93%), best fitting the Developer Tools category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: ai (name), ai (website), copilot (description). Market read: Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "market_note": "Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "ai (name)",
+          "ai (website)",
+          "copilot (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-3483ff947589",
+      "month": "2025-10"
+    },
+    {
+      "name": "Talos Perception",
+      "source": "sample",
+      "source_id": "sample-2266977",
+      "jurisdiction": "California, USA",
+      "formation_date": "2026-05-01",
+      "discovered_date": "2026-05-31",
+      "website": "https://talosperception.ai",
+      "description": "Perception stack and sensor fusion for autonomous industrial vehicles.",
+      "raw": {
+        "name": "Talos Perception",
+        "source_id": "sample-2266977",
+        "jurisdiction": "California, USA",
+        "formation_date": "2026-05-01",
+        "website": "https://talosperception.ai",
+        "description": "Perception stack and sensor fusion for autonomous industrial vehicles."
+      },
+      "ai_score": 0.9309,
+      "is_ai": true,
+      "ai_signals": [
+        "perception (name)",
+        "ai (website)",
+        "autonomous (description)",
+        "perception (description)"
+      ],
+      "ai_category": "Computer Vision",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Perception stack and sensor fusion for autonomous industrial vehicles.",
+        "market_category": "Computer Vision",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Talos Perception surfaced via sample as a newly formed entity in California, USA. Classifier confidence that it is AI-related is high (93%), best fitting the Computer Vision category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: perception (name), ai (website), autonomous (description), perception (description). Market read: Mature ML discipline with deep verticals (industrial, medical, security); moats come from proprietary data and integrations.",
+        "market_note": "Mature ML discipline with deep verticals (industrial, medical, security); moats come from proprietary data and integrations.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "perception (name)",
+          "ai (website)",
+          "autonomous (description)",
+          "perception (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-550d2a66f583",
+      "month": "2026-05"
+    },
+    {
+      "name": "Meridian Drug Discovery",
+      "source": "sample",
+      "source_id": "sample-2289004",
+      "jurisdiction": "Texas, USA",
+      "formation_date": "2026-05-22",
+      "discovered_date": "2026-05-31",
+      "website": "https://meridianbio.ai",
+      "description": "Deep learning models that predict protein-ligand binding for drug discovery.",
+      "raw": {
+        "name": "Meridian Drug Discovery",
+        "source_id": "sample-2289004",
+        "jurisdiction": "Texas, USA",
+        "formation_date": "2026-05-22",
+        "website": "https://meridianbio.ai",
+        "description": "Deep learning models that predict protein-ligand binding for drug discovery."
+      },
+      "ai_score": 0.9105,
+      "is_ai": true,
+      "ai_signals": [
+        "ai (website)",
+        "deep learning (description)"
+      ],
+      "ai_category": "Healthcare AI",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Deep learning models that predict protein-ligand binding for drug discovery.",
+        "market_category": "Healthcare AI",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Meridian Drug Discovery surfaced via sample as a newly formed entity in Texas, USA. Classifier confidence that it is AI-related is high (91%), best fitting the Healthcare AI category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: ai (website), deep learning (description). Market read: Large regulated market; reimbursement, clinical validation, and data access gate the upside.",
+        "market_note": "Large regulated market; reimbursement, clinical validation, and data access gate the upside.",
+        "risks": [
+          "Regulatory and compliance overhead can slow go-to-market."
+        ],
+        "signals": [
+          "ai (website)",
+          "deep learning (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-4e2491218252",
+      "month": "2026-05"
+    },
+    {
+      "name": "Vantage Risk Models",
+      "source": "sample",
+      "source_id": "sample-561230",
+      "jurisdiction": "Toronto, CA",
+      "formation_date": "2025-11-16",
+      "discovered_date": "2026-05-31",
+      "website": "https://vantagerisk.ai",
+      "description": "Machine learning credit risk and fraud models for fintech lenders.",
+      "raw": {
+        "name": "Vantage Risk Models",
+        "source_id": "sample-561230",
+        "jurisdiction": "Toronto, CA",
+        "formation_date": "2025-11-16",
+        "website": "https://vantagerisk.ai",
+        "description": "Machine learning credit risk and fraud models for fintech lenders."
+      },
+      "ai_score": 0.9105,
+      "is_ai": true,
+      "ai_signals": [
+        "ai (website)",
+        "machine learning (description)"
+      ],
+      "ai_category": "Fintech AI",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Machine learning credit risk and fraud models for fintech lenders.",
+        "market_category": "Fintech AI",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Vantage Risk Models surfaced via sample as a newly formed entity in Toronto, CA. Classifier confidence that it is AI-related is high (91%), best fitting the Fintech AI category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: ai (website), machine learning (description). Market read: High willingness-to-pay and clear ROI, offset by regulatory scrutiny and incumbent data advantages.",
+        "market_note": "High willingness-to-pay and clear ROI, offset by regulatory scrutiny and incumbent data advantages.",
+        "risks": [
+          "Regulatory and compliance overhead can slow go-to-market."
+        ],
+        "signals": [
+          "ai (website)",
+          "machine learning (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-a6569b385b74",
+      "month": "2025-11"
+    },
+    {
+      "name": "Helio Forecast",
+      "source": "sample",
+      "source_id": "sample-8297441",
+      "jurisdiction": "Washington, USA",
+      "formation_date": "2026-02-13",
+      "discovered_date": "2026-05-31",
+      "website": "https://helioforecast.com",
+      "description": "Predictive analytics for energy grids using deep learning demand models.",
+      "raw": {
+        "name": "Helio Forecast",
+        "source_id": "sample-8297441",
+        "jurisdiction": "Washington, USA",
+        "formation_date": "2026-02-13",
+        "website": "https://helioforecast.com",
+        "description": "Predictive analytics for energy grids using deep learning demand models."
+      },
+      "ai_score": 0.8699,
+      "is_ai": true,
+      "ai_signals": [
+        "deep learning (description)",
+        "predictive (description)"
+      ],
+      "ai_category": "Data / Analytics",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Predictive analytics for energy grids using deep learning demand models.",
+        "market_category": "Data / Analytics",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Helio Forecast surfaced via sample as a newly formed entity in Washington, USA. Classifier confidence that it is AI-related is high (87%), best fitting the Data / Analytics category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: deep learning (description), predictive (description). Market read: Durable enterprise budget line; differentiation requires going beyond dashboards into action.",
+        "market_note": "Durable enterprise budget line; differentiation requires going beyond dashboards into action.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "deep learning (description)",
+          "predictive (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-fe2d473cf541",
+      "month": "2026-02"
+    },
+    {
+      "name": "Quill Copilot",
+      "source": "sample",
+      "source_id": "sample-671878",
+      "jurisdiction": "Texas, USA",
+      "formation_date": "2025-10-10",
+      "discovered_date": "2026-05-31",
+      "website": "https://quillcopilot.dev",
+      "description": "AI pair programmer that reviews pull requests and writes tests automatically.",
+      "raw": {
+        "name": "Quill Copilot",
+        "source_id": "sample-671878",
+        "jurisdiction": "Texas, USA",
+        "formation_date": "2025-10-10",
+        "website": "https://quillcopilot.dev",
+        "description": "AI pair programmer that reviews pull requests and writes tests automatically."
+      },
+      "ai_score": 0.8085,
+      "is_ai": true,
+      "ai_signals": [
+        "copilot (name)",
+        "ai (description)"
+      ],
+      "ai_category": "Developer Tools",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "AI pair programmer that reviews pull requests and writes tests automatically.",
+        "market_category": "Developer Tools",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Quill Copilot surfaced via sample as a newly formed entity in Texas, USA. Classifier confidence that it is AI-related is high (81%), best fitting the Developer Tools category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: copilot (name), ai (description). Market read: Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "market_note": "Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "copilot (name)",
+          "ai (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-e22b0a672892",
+      "month": "2025-10"
+    },
+    {
+      "name": "Ledger Sentinel",
+      "source": "sample",
+      "source_id": "sample-3824611",
+      "jurisdiction": "California, USA",
+      "formation_date": "2026-03-07",
+      "discovered_date": "2026-05-31",
+      "website": "https://ledgersentinel.com",
+      "description": "Machine learning fraud detection for real-time payments and card networks.",
+      "raw": {
+        "name": "Ledger Sentinel",
+        "source_id": "sample-3824611",
+        "jurisdiction": "California, USA",
+        "formation_date": "2026-03-07",
+        "website": "https://ledgersentinel.com",
+        "description": "Machine learning fraud detection for real-time payments and card networks."
+      },
+      "ai_score": 0.7311,
+      "is_ai": true,
+      "ai_signals": [
+        "machine learning (description)"
+      ],
+      "ai_category": "Computer Vision",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Machine learning fraud detection for real-time payments and card networks.",
+        "market_category": "Computer Vision",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Ledger Sentinel surfaced via sample as a newly formed entity in California, USA. Classifier confidence that it is AI-related is moderate (73%), best fitting the Computer Vision category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: machine learning (description). Market read: Mature ML discipline with deep verticals (industrial, medical, security); moats come from proprietary data and integrations.",
+        "market_note": "Mature ML discipline with deep verticals (industrial, medical, security); moats come from proprietary data and integrations.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "machine learning (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-3a6fbf1d29e2",
+      "month": "2026-03"
+    },
+    {
+      "name": "Cortex Vision Systems",
+      "source": "sample",
+      "source_id": "sample-4713158",
+      "jurisdiction": "Singapore, SG",
+      "formation_date": "2026-03-30",
+      "discovered_date": "2026-05-31",
+      "website": "https://cortexvision.io",
+      "description": "Computer vision platform for real-time defect detection on manufacturing lines.",
+      "raw": {
+        "name": "Cortex Vision Systems",
+        "source_id": "sample-4713158",
+        "jurisdiction": "Singapore, SG",
+        "formation_date": "2026-03-30",
+        "website": "https://cortexvision.io",
+        "description": "Computer vision platform for real-time defect detection on manufacturing lines."
+      },
+      "ai_score": 0.69,
+      "is_ai": true,
+      "ai_signals": [
+        "computer vision (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Computer vision platform for real-time defect detection on manufacturing lines.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Cortex Vision Systems surfaced via sample as a newly formed entity in Singapore, SG. Classifier confidence that it is AI-related is moderate (69%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: computer vision (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "computer vision (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-492fc9f9e913",
+      "month": "2026-03"
+    },
+    {
+      "name": "Beacon NLP",
+      "source": "sample",
+      "source_id": "sample-6061944",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2025-11-19",
+      "discovered_date": "2026-05-31",
+      "website": "https://beaconnlp.com",
+      "description": "Natural language processing for legal contract review and obligation extraction.",
+      "raw": {
+        "name": "Beacon NLP",
+        "source_id": "sample-6061944",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2025-11-19",
+        "website": "https://beaconnlp.com",
+        "description": "Natural language processing for legal contract review and obligation extraction."
+      },
+      "ai_score": 0.69,
+      "is_ai": true,
+      "ai_signals": [
+        "natural language processing (description)"
+      ],
+      "ai_category": "NLP / Language",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Natural language processing for legal contract review and obligation extraction.",
+        "market_category": "NLP / Language",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Beacon NLP surfaced via sample as a newly formed entity in Paris, FR. Classifier confidence that it is AI-related is moderate (69%), best fitting the NLP / Language category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: natural language processing (description). Market read: Directly exposed to frontier-model commoditization; winners own a domain, data loop, or distribution advantage.",
+        "market_note": "Directly exposed to frontier-model commoditization; winners own a domain, data loop, or distribution advantage.",
+        "risks": [
+          "Exposed to frontier-model commoditization and platform risk."
+        ],
+        "signals": [
+          "natural language processing (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-c8dd5754605f",
+      "month": "2025-11"
+    },
+    {
+      "name": "Atlas Data Science",
+      "source": "sample",
+      "source_id": "sample-8974217",
+      "jurisdiction": "Berlin, DE",
+      "formation_date": "2026-05-27",
+      "discovered_date": "2026-05-31",
+      "website": "https://atlasds.io",
+      "description": "Predictive analytics and forecasting copilots for retail supply chains.",
+      "raw": {
+        "name": "Atlas Data Science",
+        "source_id": "sample-8974217",
+        "jurisdiction": "Berlin, DE",
+        "formation_date": "2026-05-27",
+        "website": "https://atlasds.io",
+        "description": "Predictive analytics and forecasting copilots for retail supply chains."
+      },
+      "ai_score": 0.6225,
+      "is_ai": true,
+      "ai_signals": [
+        "data science (name)",
+        "predictive (description)"
+      ],
+      "ai_category": "Developer Tools",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Predictive analytics and forecasting copilots for retail supply chains.",
+        "market_category": "Developer Tools",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Atlas Data Science surfaced via sample as a newly formed entity in Berlin, DE. Classifier confidence that it is AI-related is moderate (62%), best fitting the Developer Tools category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: data science (name), predictive (description). Market read: Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "market_note": "Bottoms-up developer adoption can compound fast, but monetization and platform risk (model vendors shipping native features) are key questions.",
+        "risks": [
+          "Standard early-stage execution and distribution risk."
+        ],
+        "signals": [
+          "data science (name)",
+          "predictive (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-6db27545112d",
+      "month": "2026-05"
+    },
+    {
+      "name": "Verdant Agents",
+      "source": "sample",
+      "source_id": "sample-1768492",
+      "jurisdiction": "Berlin, DE",
+      "formation_date": "2025-11-28",
+      "discovered_date": "2026-05-31",
+      "website": "https://verdantagents.com",
+      "description": "Autonomous AI agents that operate enterprise back-office workflows end to end.",
+      "raw": {
+        "name": "Verdant Agents",
+        "source_id": "sample-1768492",
+        "jurisdiction": "Berlin, DE",
+        "formation_date": "2025-11-28",
+        "website": "https://verdantagents.com",
+        "description": "Autonomous AI agents that operate enterprise back-office workflows end to end."
+      },
+      "ai_score": 0.5987,
+      "is_ai": true,
+      "ai_signals": [
+        "ai (description)",
+        "autonomous (description)"
+      ],
+      "ai_category": "AI Agents",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Autonomous AI agents that operate enterprise back-office workflows end to end.",
+        "market_category": "AI Agents",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Verdant Agents surfaced via sample as a newly formed entity in Berlin, DE. Classifier confidence that it is AI-related is moderate (60%), best fitting the AI Agents category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: ai (description), autonomous (description). Market read: Early, fast-moving category; differentiation hinges on reliability, distribution, and a defensible workflow wedge.",
+        "market_note": "Early, fast-moving category; differentiation hinges on reliability, distribution, and a defensible workflow wedge.",
+        "risks": [
+          "AI-relevance is uncertain; may be buzzword-only positioning."
+        ],
+        "signals": [
+          "ai (description)",
+          "autonomous (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-0709a445b772",
+      "month": "2025-11"
+    },
+    {
+      "name": "Nexus Vector",
+      "source": "sample",
+      "source_id": "sample-8664979",
+      "jurisdiction": "California, USA",
+      "formation_date": "2025-10-27",
+      "discovered_date": "2026-05-31",
+      "website": "https://nexusvector.io",
+      "description": "Managed vector database and retrieval layer for production RAG applications.",
+      "raw": {
+        "name": "Nexus Vector",
+        "source_id": "sample-8664979",
+        "jurisdiction": "California, USA",
+        "formation_date": "2025-10-27",
+        "website": "https://nexusvector.io",
+        "description": "Managed vector database and retrieval layer for production RAG applications."
+      },
+      "ai_score": 0.5498,
+      "is_ai": true,
+      "ai_signals": [
+        "vector database (description)"
+      ],
+      "ai_category": "AI Infrastructure",
+      "memo": {
+        "generated_by": "heuristic",
+        "one_liner": "Managed vector database and retrieval layer for production RAG applications.",
+        "market_category": "AI Infrastructure",
+        "estimated_stage": "Pre-seed / Formation",
+        "thesis": "Nexus Vector surfaced via sample as a newly formed entity in California, USA. Classifier confidence that it is AI-related is moderate (55%), best fitting the AI Infrastructure category. No website on file yet (typical for very recently formed entities).",
+        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: vector database (description). Market read: Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "market_note": "Picks-and-shovels layer for the AI build-out; large but capital-intensive and increasingly contested by incumbents.",
+        "risks": [
+          "AI-relevance is uncertain; may be buzzword-only positioning."
+        ],
+        "signals": [
+          "vector database (description)"
+        ],
+        "website_analyzed": false
+      },
+      "id": "sample-d131a1a05771",
+      "month": "2025-10"
+    },
+    {
+      "name": "Aperture Diffusion",
+      "source": "sample",
+      "source_id": "sample-3425663",
+      "jurisdiction": "Berlin, DE",
+      "formation_date": "2025-11-05",
+      "discovered_date": "2026-05-31",
+      "website": "https://aperturediffusion.ai",
+      "description": "Diffusion-model image generation API tuned for product photography.",
+      "raw": {
+        "name": "Aperture Diffusion",
+        "source_id": "sample-3425663",
+        "jurisdiction": "Berlin, DE",
+        "formation_date": "2025-11-05",
+        "website": "https://aperturediffusion.ai",
+        "description": "Diffusion-model image generation API tuned for product photography."
+      },
+      "ai_score": 0.4061,
+      "is_ai": false,
+      "ai_signals": [
+        "ai (website)",
+        "model (description)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-692a6b31e32c",
+      "month": "2025-11"
+    },
+    {
+      "name": "Cognitive Coffee Roasters",
+      "source": "sample",
+      "source_id": "sample-2160331",
+      "jurisdiction": "Washington, USA",
+      "formation_date": "2026-03-22",
+      "discovered_date": "2026-05-31",
+      "website": "https://cognitivecoffee.com",
+      "description": "Specialty coffee roastery and neighborhood cafe.",
+      "raw": {
+        "name": "Cognitive Coffee Roasters",
+        "source_id": "sample-2160331",
+        "jurisdiction": "Washington, USA",
+        "formation_date": "2026-03-22",
+        "website": "https://cognitivecoffee.com",
+        "description": "Specialty coffee roastery and neighborhood cafe."
+      },
+      "ai_score": 0.4013,
+      "is_ai": false,
+      "ai_signals": [
+        "cognitive (name)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-cbd146613960",
+      "month": "2026-03"
+    },
+    {
+      "name": "Smart Home Comfort",
+      "source": "sample",
+      "source_id": "sample-2234992",
+      "jurisdiction": "Washington, USA",
+      "formation_date": "2026-01-23",
+      "discovered_date": "2026-05-31",
+      "website": "https://smarthomecomfort.com",
+      "description": "Installs smart thermostats and connected home automation hardware.",
+      "raw": {
+        "name": "Smart Home Comfort",
+        "source_id": "sample-2234992",
+        "jurisdiction": "Washington, USA",
+        "formation_date": "2026-01-23",
+        "website": "https://smarthomecomfort.com",
+        "description": "Installs smart thermostats and connected home automation hardware."
+      },
+      "ai_score": 0.3498,
+      "is_ai": false,
+      "ai_signals": [
+        "smart (name)",
+        "automation (description)",
+        "smart (description)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-a317d2e75aa9",
+      "month": "2026-01"
+    },
+    {
+      "name": "Echo Synthesis",
+      "source": "sample",
+      "source_id": "sample-4962153",
+      "jurisdiction": "Singapore, SG",
+      "formation_date": "2026-03-01",
+      "discovered_date": "2026-05-31",
+      "website": "https://echosynth.ai",
+      "description": "Generative voice and avatar platform for localized marketing content.",
+      "raw": {
+        "name": "Echo Synthesis",
+        "source_id": "sample-4962153",
+        "jurisdiction": "Singapore, SG",
+        "formation_date": "2026-03-01",
+        "website": "https://echosynth.ai",
+        "description": "Generative voice and avatar platform for localized marketing content."
+      },
+      "ai_score": 0.3363,
+      "is_ai": false,
+      "ai_signals": [
+        "ai (website)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-64ed1c326514",
+      "month": "2026-03"
+    },
+    {
+      "name": "Synthro Media",
+      "source": "sample",
+      "source_id": "sample-2966954",
+      "jurisdiction": "Toronto, CA",
+      "formation_date": "2026-01-09",
+      "discovered_date": "2026-05-31",
+      "website": "https://synthro.ai",
+      "description": "Generative video synthesis platform for short-form social content.",
+      "raw": {
+        "name": "Synthro Media",
+        "source_id": "sample-2966954",
+        "jurisdiction": "Toronto, CA",
+        "formation_date": "2026-01-09",
+        "website": "https://synthro.ai",
+        "description": "Generative video synthesis platform for short-form social content."
+      },
+      "ai_score": 0.3363,
+      "is_ai": false,
+      "ai_signals": [
+        "ai (website)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-b633294dd47f",
+      "month": "2026-01"
+    },
+    {
+      "name": "Prism Foundation Models",
+      "source": "sample",
+      "source_id": "sample-9250479",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2025-10-21",
+      "discovered_date": "2026-05-31",
+      "website": "https://prismfm.ai",
+      "description": "Builds small, efficient foundation models fine-tuned for regulated industries.",
+      "raw": {
+        "name": "Prism Foundation Models",
+        "source_id": "sample-9250479",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2025-10-21",
+        "website": "https://prismfm.ai",
+        "description": "Builds small, efficient foundation models fine-tuned for regulated industries."
+      },
+      "ai_score": 0.3363,
+      "is_ai": false,
+      "ai_signals": [
+        "ai (website)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-a3dd49a01474",
+      "month": "2025-10"
+    },
+    {
+      "name": "Sentient Underwriting",
+      "source": "sample",
+      "source_id": "sample-3620887",
+      "jurisdiction": "Tel Aviv, IL",
+      "formation_date": "2026-02-11",
+      "discovered_date": "2026-05-31",
+      "website": "https://sentientuw.com",
+      "description": "AI underwriting engine for specialty insurance and credit risk.",
+      "raw": {
+        "name": "Sentient Underwriting",
+        "source_id": "sample-3620887",
+        "jurisdiction": "Tel Aviv, IL",
+        "formation_date": "2026-02-11",
+        "website": "https://sentientuw.com",
+        "description": "AI underwriting engine for specialty insurance and credit risk."
+      },
+      "ai_score": 0.31,
+      "is_ai": false,
+      "ai_signals": [
+        "ai (description)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-54caf64e76da",
+      "month": "2026-02"
+    },
+    {
+      "name": "Model Citizen Apparel",
+      "source": "sample",
+      "source_id": "sample-3343601",
+      "jurisdiction": "California, USA",
+      "formation_date": "2026-05-20",
+      "discovered_date": "2026-05-31",
+      "website": "https://modelcitizen.com",
+      "description": "Direct-to-consumer sustainable clothing brand.",
+      "raw": {
+        "name": "Model Citizen Apparel",
+        "source_id": "sample-3343601",
+        "jurisdiction": "California, USA",
+        "formation_date": "2026-05-20",
+        "website": "https://modelcitizen.com",
+        "description": "Direct-to-consumer sustainable clothing brand."
+      },
+      "ai_score": 0.1795,
+      "is_ai": false,
+      "ai_signals": [
+        "model (name)"
+      ],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-d5c7a3fd5d0b",
+      "month": "2026-05"
+    },
+    {
+      "name": "Coastal Catering Co",
+      "source": "sample",
+      "source_id": "sample-5565073",
+      "jurisdiction": "California, USA",
+      "formation_date": "2026-04-23",
+      "discovered_date": "2026-05-31",
+      "website": "https://coastalcatering.com",
+      "description": "Full-service event catering and private chef services.",
+      "raw": {
+        "name": "Coastal Catering Co",
+        "source_id": "sample-5565073",
+        "jurisdiction": "California, USA",
+        "formation_date": "2026-04-23",
+        "website": "https://coastalcatering.com",
+        "description": "Full-service event catering and private chef services."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-8c721ebc8fe7",
+      "month": "2026-04"
+    },
+    {
+      "name": "Willow & Sage Interiors",
+      "source": "sample",
+      "source_id": "sample-2411926",
+      "jurisdiction": "Toronto, CA",
+      "formation_date": "2026-03-02",
+      "discovered_date": "2026-05-31",
+      "website": "https://willowsageinteriors.com",
+      "description": "Residential interior design and home staging studio.",
+      "raw": {
+        "name": "Willow & Sage Interiors",
+        "source_id": "sample-2411926",
+        "jurisdiction": "Toronto, CA",
+        "formation_date": "2026-03-02",
+        "website": "https://willowsageinteriors.com",
+        "description": "Residential interior design and home staging studio."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-9cd3a2d16e60",
+      "month": "2026-03"
+    },
+    {
+      "name": "Brightline Marketing",
+      "source": "sample",
+      "source_id": "sample-3502263",
+      "jurisdiction": "Washington, USA",
+      "formation_date": "2026-02-27",
+      "discovered_date": "2026-05-31",
+      "website": "https://brightlinemktg.com",
+      "description": "Boutique brand and performance marketing agency.",
+      "raw": {
+        "name": "Brightline Marketing",
+        "source_id": "sample-3502263",
+        "jurisdiction": "Washington, USA",
+        "formation_date": "2026-02-27",
+        "website": "https://brightlinemktg.com",
+        "description": "Boutique brand and performance marketing agency."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-1c6be311b12c",
+      "month": "2026-02"
+    },
+    {
+      "name": "Intelligent Cleaning Services",
+      "source": "sample",
+      "source_id": "sample-4172312",
+      "jurisdiction": "Tel Aviv, IL",
+      "formation_date": "2026-02-16",
+      "discovered_date": "2026-05-31",
+      "website": "https://intellicleanpro.com",
+      "description": "Commercial janitorial and facilities cleaning services.",
+      "raw": {
+        "name": "Intelligent Cleaning Services",
+        "source_id": "sample-4172312",
+        "jurisdiction": "Tel Aviv, IL",
+        "formation_date": "2026-02-16",
+        "website": "https://intellicleanpro.com",
+        "description": "Commercial janitorial and facilities cleaning services."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-6b02cfef7a0f",
+      "month": "2026-02"
+    },
+    {
+      "name": "Cascade Speech",
+      "source": "sample",
+      "source_id": "sample-2343152",
+      "jurisdiction": "Singapore, SG",
+      "formation_date": "2026-02-05",
+      "discovered_date": "2026-05-31",
+      "website": "https://cascadespeech.com",
+      "description": "Real-time speech-to-speech translation powered by transformer models.",
+      "raw": {
+        "name": "Cascade Speech",
+        "source_id": "sample-2343152",
+        "jurisdiction": "Singapore, SG",
+        "formation_date": "2026-02-05",
+        "website": "https://cascadespeech.com",
+        "description": "Real-time speech-to-speech translation powered by transformer models."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-6b9892da09dc",
+      "month": "2026-02"
+    },
+    {
+      "name": "Granite Peak Construction",
+      "source": "sample",
+      "source_id": "sample-7559621",
+      "jurisdiction": "London, UK",
+      "formation_date": "2026-01-27",
+      "discovered_date": "2026-05-31",
+      "website": "https://granitepeakbuild.com",
+      "description": "Commercial construction and general contracting services.",
+      "raw": {
+        "name": "Granite Peak Construction",
+        "source_id": "sample-7559621",
+        "jurisdiction": "London, UK",
+        "formation_date": "2026-01-27",
+        "website": "https://granitepeakbuild.com",
+        "description": "Commercial construction and general contracting services."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-721e646ca001",
+      "month": "2026-01"
+    },
+    {
+      "name": "Evergreen Landscaping",
+      "source": "sample",
+      "source_id": "sample-4901358",
+      "jurisdiction": "Toronto, CA",
+      "formation_date": "2026-01-22",
+      "discovered_date": "2026-05-31",
+      "website": "https://evergreenscape.com",
+      "description": "Landscape design, installation, and seasonal maintenance.",
+      "raw": {
+        "name": "Evergreen Landscaping",
+        "source_id": "sample-4901358",
+        "jurisdiction": "Toronto, CA",
+        "formation_date": "2026-01-22",
+        "website": "https://evergreenscape.com",
+        "description": "Landscape design, installation, and seasonal maintenance."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-77024d05c8bb",
+      "month": "2026-01"
+    },
+    {
+      "name": "Harborview Logistics",
+      "source": "sample",
+      "source_id": "sample-4693674",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2026-01-12",
+      "discovered_date": "2026-05-31",
+      "website": "https://harborviewlogistics.com",
+      "description": "Freight forwarding and last-mile delivery across the eastern seaboard.",
+      "raw": {
+        "name": "Harborview Logistics",
+        "source_id": "sample-4693674",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2026-01-12",
+        "website": "https://harborviewlogistics.com",
+        "description": "Freight forwarding and last-mile delivery across the eastern seaboard."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-df7586485378",
+      "month": "2026-01"
+    },
+    {
+      "name": "Mountain Air HVAC",
+      "source": "sample",
+      "source_id": "sample-1320554",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2025-12-29",
+      "discovered_date": "2026-05-31",
+      "website": "https://mountainairhvac.com",
+      "description": "Residential heating, ventilation, and air conditioning installation.",
+      "raw": {
+        "name": "Mountain Air HVAC",
+        "source_id": "sample-1320554",
+        "jurisdiction": "Delaware, USA",
+        "formation_date": "2025-12-29",
+        "website": "https://mountainairhvac.com",
+        "description": "Residential heating, ventilation, and air conditioning installation."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-a6e463bacb13",
+      "month": "2025-12"
+    },
+    {
+      "name": "Riverside Family Dental",
+      "source": "sample",
+      "source_id": "sample-5715301",
+      "jurisdiction": "Singapore, SG",
+      "formation_date": "2025-12-08",
+      "discovered_date": "2026-05-31",
+      "website": "https://riversidedental.com",
+      "description": "General and cosmetic dentistry practice serving the metro area.",
+      "raw": {
+        "name": "Riverside Family Dental",
+        "source_id": "sample-5715301",
+        "jurisdiction": "Singapore, SG",
+        "formation_date": "2025-12-08",
+        "website": "https://riversidedental.com",
+        "description": "General and cosmetic dentistry practice serving the metro area."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-f81456930d8d",
+      "month": "2025-12"
+    },
+    {
+      "name": "Summit Fitness Collective",
+      "source": "sample",
+      "source_id": "sample-2121001",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2025-12-03",
+      "discovered_date": "2026-05-31",
+      "website": "https://summitfitness.com",
+      "description": "Boutique fitness studio offering strength and conditioning classes.",
+      "raw": {
+        "name": "Summit Fitness Collective",
+        "source_id": "sample-2121001",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2025-12-03",
+        "website": "https://summitfitness.com",
+        "description": "Boutique fitness studio offering strength and conditioning classes."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-6ee627eae5cd",
+      "month": "2025-12"
+    },
+    {
+      "name": "Sterling Property Group",
+      "source": "sample",
+      "source_id": "sample-3598968",
+      "jurisdiction": "Berlin, DE",
+      "formation_date": "2025-11-02",
+      "discovered_date": "2026-05-31",
+      "website": "https://sterlingpropertygroup.com",
+      "description": "Commercial real estate brokerage and property management.",
+      "raw": {
+        "name": "Sterling Property Group",
+        "source_id": "sample-3598968",
+        "jurisdiction": "Berlin, DE",
+        "formation_date": "2025-11-02",
+        "website": "https://sterlingpropertygroup.com",
+        "description": "Commercial real estate brokerage and property management."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-39e96fd2fd67",
+      "month": "2025-11"
+    },
+    {
+      "name": "Apex Auto Repair",
+      "source": "sample",
+      "source_id": "sample-8450434",
+      "jurisdiction": "Paris, FR",
+      "formation_date": "2025-10-29",
+      "discovered_date": "2026-05-31",
+      "website": "https://apexautorepair.com",
+      "description": "Independent auto repair shop and tire service center.",
+      "raw": {
+        "name": "Apex Auto Repair",
+        "source_id": "sample-8450434",
+        "jurisdiction": "Paris, FR",
+        "formation_date": "2025-10-29",
+        "website": "https://apexautorepair.com",
+        "description": "Independent auto repair shop and tire service center."
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "id": "sample-92d0c81181c5",
+      "month": "2025-10"
+    }
+  ]
+}
