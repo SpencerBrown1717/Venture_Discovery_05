@@ -24,6 +24,7 @@ CREATE TABLE IF NOT EXISTS companies (
     formation_date  TEXT,
     discovered_date TEXT,
     website         TEXT,
+    website_verified INTEGER DEFAULT 0,
     description     TEXT,
     ai_score        REAL DEFAULT 0,
     is_ai           INTEGER DEFAULT 0,
@@ -55,9 +56,10 @@ class Database:
     def _migrate(self) -> None:
         """Add columns introduced after a DB was first created (idempotent)."""
         existing = {r["name"] for r in self._conn.execute("PRAGMA table_info(companies)")}
-        for col in ("memo", "founders", "scores", "competitive", "recommendation"):
+        for col in ("memo", "founders", "scores", "competitive", "recommendation", "website_verified"):
             if col not in existing:
-                self._conn.execute(f"ALTER TABLE companies ADD COLUMN {col} TEXT")
+                typ = "INTEGER DEFAULT 0" if col == "website_verified" else "TEXT"
+                self._conn.execute(f"ALTER TABLE companies ADD COLUMN {col} {typ}")
 
     def close(self) -> None:
         self._conn.close()

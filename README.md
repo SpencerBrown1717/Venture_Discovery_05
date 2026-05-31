@@ -104,6 +104,7 @@ the heuristic classifier and heuristic memos — it never hard-fails.
 | `python -m scout run` | Discover → classify → (research) → store |
 | `python -m scout export` | Re-export `dashboard/data.json` from the DB |
 | `python -m scout stats` | Print database stats |
+| `python -m scout verify-links` | Verify every website URL in the sample JSON resolves |
 
 Useful `run` flags: `--source {sample,sec_edgar}`, `--limit N`, `--llm`,
 `--research`, `--no-fetch-site`, `--export`, `--query`, `--days-back`,
@@ -252,8 +253,11 @@ intent onto the existing filter controls — no backend required.
 
 ## Known limitations
 
-- **Sample data is synthetic.** `gen-sample` produces realistic-but-fake records
-  so the demo runs offline. The live `sec_edgar` source pulls real filings.
+- **Sample data uses real public companies.** The offline demo dataset lists real AI
+  companies with **verified working websites** (checked on ingest via DNS/HTTP).
+  Formation dates and jurisdictions are illustrative so the pipeline runs
+  offline; live `sec_edgar` pulls real filings. Non-AI noise records omit
+  websites (typical for early local formations).
 - **Form D ≠ all new companies.** EDGAR Form D captures entities raising exempt
   securities; it misses companies that haven't raised, and includes some funds
   /SPVs. It's a high-signal *slice*, not full incorporation coverage. Adding a

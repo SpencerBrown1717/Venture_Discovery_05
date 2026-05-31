@@ -276,8 +276,8 @@ function scoreClass(s) { return s >= 0.75 ? "hi" : s >= 0.5 ? "mid" : "lo"; }
 
 function cardHtml(c) {
   const edgarUrl = (c.raw && c.raw.edgar_url) || "";
-  const link = c.website || edgarUrl;
-  const linkLabel = c.website
+  const link = c.website && c.website_verified ? c.website : edgarUrl;
+  const linkLabel = c.website && c.website_verified
     ? c.website.replace(/^https?:\/\//, "").replace(/\/$/, "")
     : edgarUrl ? "View SEC filing" : "";
   const host = link ? linkLabel : "";
@@ -386,7 +386,7 @@ function openMemo(id) {
     ${competitiveHtml(c.competitive)}
     ${m.reasoning ? `<div class="memo-sec"><h4>Reasoning</h4><p>${escapeHtml(m.reasoning)}</p></div>` : ""}
     ${risks ? `<div class="memo-sec"><h4>Key risks</h4><ul>${risks}</ul></div>` : ""}
-    ${c.website ? `<div class="memo-sec"><a class="memo-btn" href="${escapeHtml(c.website)}" target="_blank" rel="noopener">Visit website ↗</a></div>` : ""}
+    ${c.website && c.website_verified ? `<div class="memo-sec"><a class="memo-btn" href="${escapeHtml(c.website)}" target="_blank" rel="noopener">Visit website ↗</a></div>` : ""}
   `;
   $("drawer").hidden = false;
   $("drawerOverlay").hidden = false;

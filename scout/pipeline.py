@@ -29,6 +29,7 @@ from .founders import FounderAgent
 from .models import Company
 from .recommend import ReportingAgent
 from .score import ScoringAgent
+from .validate import verify_company_website
 from .sources import get_source
 
 
@@ -84,6 +85,7 @@ class Pipeline:
         for company in source.fetch(limit=limit):
             report.fetched += 1
             try:
+                verify_company_website(company)
                 self._classifier.classify(company)
                 if company.is_ai:
                     report.classified_ai += 1

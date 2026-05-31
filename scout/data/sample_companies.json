@@ -1,330 +1,403 @@
 [
   {
-    "name": "Atlas Data Science",
-    "source_id": "sample-9396991",
-    "jurisdiction": "Berlin, DE",
-    "formation_date": "2026-05-27",
-    "website": "https://atlasds.io",
-    "description": "Predictive analytics and forecasting copilots for retail supply chains."
-  },
-  {
-    "name": "Meridian Drug Discovery",
-    "source_id": "sample-7670526",
-    "jurisdiction": "Texas, USA",
-    "formation_date": "2026-05-22",
-    "website": "https://meridianbio.ai",
-    "description": "Deep learning models that predict protein-ligand binding for drug discovery."
-  },
-  {
-    "name": "Model Citizen Apparel",
-    "source_id": "sample-328439",
-    "jurisdiction": "California, USA",
-    "formation_date": "2026-05-20",
-    "website": "https://modelcitizen.com",
-    "description": "Direct-to-consumer sustainable clothing brand."
-  },
-  {
-    "name": "Orchard Computer Vision",
-    "source_id": "sample-5491765",
-    "jurisdiction": "Washington, USA",
-    "formation_date": "2026-05-07",
-    "website": "https://orchardcv.com",
-    "description": "Computer vision for precision agriculture: crop health and yield detection."
-  },
-  {
-    "name": "Talos Perception",
-    "source_id": "sample-7349132",
-    "jurisdiction": "California, USA",
-    "formation_date": "2026-05-01",
-    "website": "https://talosperception.ai",
-    "description": "Perception stack and sensor fusion for autonomous industrial vehicles."
-  },
-  {
-    "name": "Coastal Catering Co",
-    "source_id": "sample-303304",
-    "jurisdiction": "California, USA",
-    "formation_date": "2026-04-23",
-    "website": "https://coastalcatering.com",
-    "description": "Full-service event catering and private chef services."
-  },
-  {
-    "name": "Cortex Vision Systems",
-    "source_id": "sample-6416777",
-    "jurisdiction": "Singapore, SG",
-    "formation_date": "2026-03-30",
-    "website": "https://cortexvision.io",
-    "description": "Computer vision platform for real-time defect detection on manufacturing lines."
-  },
-  {
-    "name": "Forge Agentic",
-    "source_id": "sample-5893216",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2026-03-26",
-    "website": "https://forgeagentic.ai",
-    "description": "Agentic workflow automation framework with tool use and long-horizon planning."
-  },
-  {
-    "name": "Cognitive Coffee Roasters",
-    "source_id": "sample-8598743",
-    "jurisdiction": "Washington, USA",
-    "formation_date": "2026-03-22",
-    "website": "https://cognitivecoffee.com",
-    "description": "Specialty coffee roastery and neighborhood cafe."
-  },
-  {
-    "name": "Pulse Trading Intelligence",
-    "source_id": "sample-6479706",
-    "jurisdiction": "Toronto, CA",
-    "formation_date": "2026-03-16",
-    "website": "https://pulsetrading.ai",
-    "description": "Reinforcement learning trading signals for systematic crypto strategies."
-  },
-  {
-    "name": "Ledger Sentinel",
-    "source_id": "sample-9867698",
-    "jurisdiction": "California, USA",
-    "formation_date": "2026-03-07",
-    "website": "https://ledgersentinel.com",
-    "description": "Machine learning fraud detection for real-time payments and card networks."
-  },
-  {
-    "name": "Willow & Sage Interiors",
-    "source_id": "sample-2923645",
-    "jurisdiction": "Toronto, CA",
-    "formation_date": "2026-03-02",
-    "website": "https://willowsageinteriors.com",
+    "name": "Willow & Sage Interiors LLC",
+    "source_id": "sample-2047333",
+    "jurisdiction": "Massachusetts, USA",
+    "formation_date": "2026-05-29",
     "description": "Residential interior design and home staging studio."
   },
   {
-    "name": "Echo Synthesis",
-    "source_id": "sample-8144685",
-    "jurisdiction": "Singapore, SG",
-    "formation_date": "2026-03-01",
-    "website": "https://echosynth.ai",
-    "description": "Generative voice and avatar platform for localized marketing content."
-  },
-  {
-    "name": "Brightline Marketing",
-    "source_id": "sample-3883064",
-    "jurisdiction": "Washington, USA",
-    "formation_date": "2026-02-27",
-    "website": "https://brightlinemktg.com",
-    "description": "Boutique brand and performance marketing agency."
-  },
-  {
-    "name": "Intelligent Cleaning Services",
-    "source_id": "sample-4756185",
-    "jurisdiction": "Tel Aviv, IL",
-    "formation_date": "2026-02-16",
-    "website": "https://intellicleanpro.com",
-    "description": "Commercial janitorial and facilities cleaning services."
-  },
-  {
-    "name": "Helio Forecast",
-    "source_id": "sample-5581220",
-    "jurisdiction": "Washington, USA",
-    "formation_date": "2026-02-13",
-    "website": "https://helioforecast.com",
-    "description": "Predictive analytics for energy grids using deep learning demand models."
-  },
-  {
-    "name": "Sentient Underwriting",
-    "source_id": "sample-3412766",
-    "jurisdiction": "Tel Aviv, IL",
-    "formation_date": "2026-02-11",
-    "website": "https://sentientuw.com",
-    "description": "AI underwriting engine for specialty insurance and credit risk."
-  },
-  {
-    "name": "Cascade Speech",
-    "source_id": "sample-4047888",
-    "jurisdiction": "Singapore, SG",
-    "formation_date": "2026-02-05",
-    "website": "https://cascadespeech.com",
-    "description": "Real-time speech-to-speech translation powered by transformer models."
-  },
-  {
-    "name": "Mistwave Robotics",
-    "source_id": "sample-153473",
+    "name": "Runway AI Inc.",
+    "source_id": "sample-4444737",
     "jurisdiction": "Paris, FR",
-    "formation_date": "2026-01-28",
-    "website": "https://mistwave.io",
-    "description": "Autonomous mobile robots for warehouse picking using reinforcement learning."
+    "formation_date": "2026-05-27",
+    "description": "Generative video and creative AI tools for creators.",
+    "website": "https://runwayml.com"
   },
   {
-    "name": "Granite Peak Construction",
-    "source_id": "sample-9935384",
-    "jurisdiction": "London, UK",
-    "formation_date": "2026-01-27",
-    "website": "https://granitepeakbuild.com",
-    "description": "Commercial construction and general contracting services."
+    "name": "Hippocratic AI Inc.",
+    "source_id": "sample-2564914",
+    "jurisdiction": "Tel Aviv, IL",
+    "formation_date": "2026-05-22",
+    "description": "Safety-focused LLMs for healthcare workflows.",
+    "website": "https://hippocraticai.com"
   },
   {
-    "name": "Smart Home Comfort",
-    "source_id": "sample-6544366",
-    "jurisdiction": "Washington, USA",
-    "formation_date": "2026-01-23",
-    "website": "https://smarthomecomfort.com",
-    "description": "Installs smart thermostats and connected home automation hardware."
-  },
-  {
-    "name": "Evergreen Landscaping",
-    "source_id": "sample-733456",
-    "jurisdiction": "Toronto, CA",
-    "formation_date": "2026-01-22",
-    "website": "https://evergreenscape.com",
-    "description": "Landscape design, installation, and seasonal maintenance."
-  },
-  {
-    "name": "Lattice Inference Labs",
-    "source_id": "sample-7510137",
-    "jurisdiction": "Massachusetts, USA",
-    "formation_date": "2026-01-18",
-    "website": "https://latticeinfer.ai",
-    "description": "High-throughput LLM inference engine with speculative decoding for cheaper serving."
-  },
-  {
-    "name": "Harborview Logistics",
-    "source_id": "sample-1971517",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2026-01-12",
-    "website": "https://harborviewlogistics.com",
+    "name": "Harborview Logistics Inc.",
+    "source_id": "sample-4657094",
+    "jurisdiction": "New York, USA",
+    "formation_date": "2026-05-21",
     "description": "Freight forwarding and last-mile delivery across the eastern seaboard."
   },
   {
-    "name": "Synthro Media",
-    "source_id": "sample-5215575",
-    "jurisdiction": "Toronto, CA",
-    "formation_date": "2026-01-09",
-    "website": "https://synthro.ai",
-    "description": "Generative video synthesis platform for short-form social content."
+    "name": "Pika Labs Inc.",
+    "source_id": "sample-6991662",
+    "jurisdiction": "California, USA",
+    "formation_date": "2026-05-07",
+    "description": "Generative video model for text-to-video creation.",
+    "website": "https://pika.art"
   },
   {
-    "name": "Mountain Air HVAC",
-    "source_id": "sample-4506214",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2025-12-29",
-    "website": "https://mountainairhvac.com",
-    "description": "Residential heating, ventilation, and air conditioning installation."
-  },
-  {
-    "name": "Quanta MLOps",
-    "source_id": "sample-5083876",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2025-12-21",
-    "website": "https://quantamlops.io",
-    "description": "MLOps platform for model serving, monitoring, and drift detection at scale."
-  },
-  {
-    "name": "Riverside Family Dental",
-    "source_id": "sample-600967",
-    "jurisdiction": "Singapore, SG",
-    "formation_date": "2025-12-08",
-    "website": "https://riversidedental.com",
-    "description": "General and cosmetic dentistry practice serving the metro area."
-  },
-  {
-    "name": "Summit Fitness Collective",
-    "source_id": "sample-5750632",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2025-12-03",
-    "website": "https://summitfitness.com",
-    "description": "Boutique fitness studio offering strength and conditioning classes."
-  },
-  {
-    "name": "Verdant Agents",
-    "source_id": "sample-8259424",
-    "jurisdiction": "Berlin, DE",
-    "formation_date": "2025-11-28",
-    "website": "https://verdantagents.com",
-    "description": "Autonomous AI agents that operate enterprise back-office workflows end to end."
-  },
-  {
-    "name": "Kindred Care Copilot",
-    "source_id": "sample-9660196",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2025-11-26",
-    "website": "https://kindredcare.ai",
-    "description": "AI patient-triage copilot for primary care clinics and telehealth."
-  },
-  {
-    "name": "Beacon NLP",
-    "source_id": "sample-280823",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2025-11-19",
-    "website": "https://beaconnlp.com",
-    "description": "Natural language processing for legal contract review and obligation extraction."
-  },
-  {
-    "name": "Vantage Risk Models",
-    "source_id": "sample-7669647",
-    "jurisdiction": "Toronto, CA",
-    "formation_date": "2025-11-16",
-    "website": "https://vantagerisk.ai",
-    "description": "Machine learning credit risk and fraud models for fintech lenders."
-  },
-  {
-    "name": "Aperture Diffusion",
-    "source_id": "sample-6737317",
-    "jurisdiction": "Berlin, DE",
-    "formation_date": "2025-11-05",
-    "website": "https://aperturediffusion.ai",
-    "description": "Diffusion-model image generation API tuned for product photography."
-  },
-  {
-    "name": "Sterling Property Group",
-    "source_id": "sample-7077829",
-    "jurisdiction": "Berlin, DE",
-    "formation_date": "2025-11-02",
-    "website": "https://sterlingpropertygroup.com",
+    "name": "Sterling Property Group LLC",
+    "source_id": "sample-1038225",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-05-04",
     "description": "Commercial real estate brokerage and property management."
   },
   {
-    "name": "Apex Auto Repair",
-    "source_id": "sample-2093308",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2025-10-29",
-    "website": "https://apexautorepair.com",
+    "name": "Cohere Inc.",
+    "source_id": "sample-2741875",
+    "jurisdiction": "Massachusetts, USA",
+    "formation_date": "2026-05-01",
+    "description": "Enterprise NLP platform for search, generation, and embeddings.",
+    "website": "https://cohere.com"
+  },
+  {
+    "name": "Summit Fitness Collective LLC",
+    "source_id": "sample-1749414",
+    "jurisdiction": "New York, USA",
+    "formation_date": "2026-05-01",
+    "description": "Boutique fitness studio offering strength and conditioning classes."
+  },
+  {
+    "name": "Pinecone Systems Inc.",
+    "source_id": "sample-5756345",
+    "jurisdiction": "New York, USA",
+    "formation_date": "2026-04-30",
+    "description": "Managed vector database for production RAG applications.",
+    "website": "https://pinecone.io"
+  },
+  {
+    "name": "Cognitive Coffee Roasters LLC",
+    "source_id": "sample-2972559",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-04-09",
+    "description": "Specialty coffee roastery and neighborhood cafe."
+  },
+  {
+    "name": "Granite Peak Construction LLC",
+    "source_id": "sample-4870443",
+    "jurisdiction": "Singapore, SG",
+    "formation_date": "2026-04-08",
+    "description": "Commercial construction and general contracting services."
+  },
+  {
+    "name": "Voyage AI Inc.",
+    "source_id": "sample-5445576",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-04-05",
+    "description": "Embedding models optimized for retrieval and search.",
+    "website": "https://voyageai.com"
+  },
+  {
+    "name": "Smart Home Comfort Inc.",
+    "source_id": "sample-2017147",
+    "jurisdiction": "California, USA",
+    "formation_date": "2026-04-02",
+    "description": "Installs smart thermostats and connected home automation hardware."
+  },
+  {
+    "name": "Fireworks AI Inc.",
+    "source_id": "sample-6894828",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2026-03-30",
+    "description": "Fast inference engine for open-source and custom language models.",
+    "website": "https://fireworks.ai"
+  },
+  {
+    "name": "Apex Auto Repair Inc.",
+    "source_id": "sample-2643662",
+    "jurisdiction": "Texas, USA",
+    "formation_date": "2026-03-29",
     "description": "Independent auto repair shop and tire service center."
   },
   {
-    "name": "Solace Health AI",
-    "source_id": "sample-6466827",
-    "jurisdiction": "New York, USA",
-    "formation_date": "2025-10-28",
-    "website": "https://solacehealth.ai",
-    "description": "Clinical documentation copilot that drafts notes from ambient visit audio."
+    "name": "Harvey AI Inc.",
+    "source_id": "sample-6204007",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-03-28",
+    "description": "AI assistant for legal research and contract workflows.",
+    "website": "https://harvey.ai"
   },
   {
-    "name": "Nexus Vector",
-    "source_id": "sample-898046",
-    "jurisdiction": "California, USA",
-    "formation_date": "2025-10-27",
-    "website": "https://nexusvector.io",
-    "description": "Managed vector database and retrieval layer for production RAG applications."
+    "name": "Ambience Healthcare Inc.",
+    "source_id": "sample-6607801",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-03-26",
+    "description": "AI operating system for clinical documentation.",
+    "website": "https://ambiencehealthcare.com"
   },
   {
-    "name": "Prism Foundation Models",
-    "source_id": "sample-7616493",
-    "jurisdiction": "Paris, FR",
-    "formation_date": "2025-10-21",
-    "website": "https://prismfm.ai",
-    "description": "Builds small, efficient foundation models fine-tuned for regulated industries."
+    "name": "Mountain Air HVAC LLC",
+    "source_id": "sample-4802547",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-03-19",
+    "description": "Residential heating, ventilation, and air conditioning installation."
   },
   {
-    "name": "Glia Neural",
-    "source_id": "sample-5439209",
+    "name": "Weights & Biases Inc.",
+    "source_id": "sample-1017556",
     "jurisdiction": "London, UK",
-    "formation_date": "2025-10-15",
-    "website": "https://glianeural.ai",
-    "description": "Neural network accelerators and an inference runtime for edge devices."
+    "formation_date": "2026-03-17",
+    "description": "MLOps platform for experiment tracking and model monitoring.",
+    "website": "https://wandb.ai"
   },
   {
-    "name": "Quill Copilot",
-    "source_id": "sample-2620231",
+    "name": "Ramp Business Corporation",
+    "source_id": "sample-6635391",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2026-03-16",
+    "description": "Corporate card and spend platform with AI-powered finance automation.",
+    "website": "https://ramp.com"
+  },
+  {
+    "name": "Riverside Family Dental PLLC",
+    "source_id": "sample-5551497",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-03-16",
+    "description": "General and cosmetic dentistry practice serving the metro area."
+  },
+  {
+    "name": "Perplexity AI Inc.",
+    "source_id": "sample-5110450",
+    "jurisdiction": "California, USA",
+    "formation_date": "2026-03-10",
+    "description": "AI-native answer engine with real-time web retrieval.",
+    "website": "https://perplexity.ai"
+  },
+  {
+    "name": "Cursor (Anysphere Inc.)",
+    "source_id": "sample-4213791",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2026-03-07",
+    "description": "AI-native code editor with agentic pair programming.",
+    "website": "https://cursor.com"
+  },
+  {
+    "name": "CrewAI Inc.",
+    "source_id": "sample-3962488",
     "jurisdiction": "Texas, USA",
+    "formation_date": "2026-03-01",
+    "description": "Framework for orchestrating role-playing autonomous AI agents.",
+    "website": "https://crewai.com"
+  },
+  {
+    "name": "Brightline Marketing LLC",
+    "source_id": "sample-7955234",
+    "jurisdiction": "Paris, FR",
+    "formation_date": "2026-02-22",
+    "description": "Boutique brand and performance marketing agency."
+  },
+  {
+    "name": "Coastal Catering Co.",
+    "source_id": "sample-8221082",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2026-02-18",
+    "description": "Full-service event catering and private chef services."
+  },
+  {
+    "name": "Sierra Technologies Inc.",
+    "source_id": "sample-2461176",
+    "jurisdiction": "Tel Aviv, IL",
+    "formation_date": "2026-02-13",
+    "description": "Conversational AI agents for enterprise customer experience.",
+    "website": "https://sierra.ai"
+  },
+  {
+    "name": "Scale AI Inc.",
+    "source_id": "sample-1991609",
+    "jurisdiction": "Paris, FR",
+    "formation_date": "2026-02-11",
+    "description": "Data engine and RLHF infrastructure for AI model development.",
+    "website": "https://scale.com"
+  },
+  {
+    "name": "Sardine AI Inc.",
+    "source_id": "sample-2221449",
+    "jurisdiction": "Massachusetts, USA",
+    "formation_date": "2026-02-05",
+    "description": "AI fraud prevention and compliance for fintech.",
+    "website": "https://sardine.ai"
+  },
+  {
+    "name": "Model Citizen Apparel LLC",
+    "source_id": "sample-6848712",
+    "jurisdiction": "Texas, USA",
+    "formation_date": "2026-02-02",
+    "description": "Direct-to-consumer sustainable clothing brand."
+  },
+  {
+    "name": "Glean Technologies Inc.",
+    "source_id": "sample-8709039",
+    "jurisdiction": "Singapore, SG",
+    "formation_date": "2026-01-30",
+    "description": "Enterprise AI search and knowledge discovery across apps.",
+    "website": "https://glean.com"
+  },
+  {
+    "name": "Replit Inc.",
+    "source_id": "sample-3133675",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-01-28",
+    "description": "Cloud IDE with AI agent for building and deploying apps.",
+    "website": "https://replit.com"
+  },
+  {
+    "name": "Together AI Inc.",
+    "source_id": "sample-2171443",
+    "jurisdiction": "London, UK",
+    "formation_date": "2026-01-18",
+    "description": "High-throughput open-source LLM inference and fine-tuning platform.",
+    "website": "https://together.ai"
+  },
+  {
+    "name": "Hex Technologies Inc.",
+    "source_id": "sample-5327326",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2026-01-14",
+    "description": "Collaborative data workspace with AI analytics copilot.",
+    "website": "https://hex.tech"
+  },
+  {
+    "name": "Figure AI Inc.",
+    "source_id": "sample-7545575",
+    "jurisdiction": "Berlin, DE",
+    "formation_date": "2026-01-09",
+    "description": "Humanoid robots powered by AI for labor automation.",
+    "website": "https://figure.ai"
+  },
+  {
+    "name": "Evergreen Landscaping Inc.",
+    "source_id": "sample-5063547",
+    "jurisdiction": "Tel Aviv, IL",
+    "formation_date": "2026-01-08",
+    "description": "Landscape design, installation, and seasonal maintenance."
+  },
+  {
+    "name": "Abridge Inc.",
+    "source_id": "sample-4593864",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2025-12-21",
+    "description": "AI clinical documentation from ambient conversation.",
+    "website": "https://abridge.com"
+  },
+  {
+    "name": "Anyscale Inc.",
+    "source_id": "sample-2283527",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2025-12-16",
+    "description": "Ray-based platform for scaling AI and Python workloads.",
+    "website": "https://anyscale.com"
+  },
+  {
+    "name": "Weaviate B.V.",
+    "source_id": "sample-5645576",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2025-12-08",
+    "description": "Open-source vector database and hybrid search engine.",
+    "website": "https://weaviate.io"
+  },
+  {
+    "name": "Modal Labs Inc.",
+    "source_id": "sample-2639913",
+    "jurisdiction": "Washington, USA",
+    "formation_date": "2025-11-28",
+    "description": "Serverless GPU compute platform for AI model training and inference.",
+    "website": "https://modal.com"
+  },
+  {
+    "name": "Covariant Inc.",
+    "source_id": "sample-4475430",
+    "jurisdiction": "London, UK",
+    "formation_date": "2025-11-26",
+    "description": "AI robotics for warehouse picking and manipulation.",
+    "website": "https://covariant.ai"
+  },
+  {
+    "name": "Mistral AI SAS",
+    "source_id": "sample-4447169",
+    "jurisdiction": "Berlin, DE",
+    "formation_date": "2025-11-19",
+    "description": "Open-weight foundation models and enterprise AI platform.",
+    "website": "https://mistral.ai"
+  },
+  {
+    "name": "Skild AI Inc.",
+    "source_id": "sample-5439483",
+    "jurisdiction": "New York, USA",
+    "formation_date": "2025-11-16",
+    "description": "General-purpose AI brain for diverse robot embodiments.",
+    "website": "https://skild.ai"
+  },
+  {
+    "name": "Landing AI Inc.",
+    "source_id": "sample-4983267",
+    "jurisdiction": "California, USA",
+    "formation_date": "2025-11-05",
+    "description": "Visual inspection and computer vision for manufacturing.",
+    "website": "https://landing.ai"
+  },
+  {
+    "name": "Groq Inc.",
+    "source_id": "sample-6670056",
+    "jurisdiction": "Paris, FR",
+    "formation_date": "2025-10-28",
+    "description": "LPU inference hardware and cloud for low-latency LLM serving.",
+    "website": "https://groq.com"
+  },
+  {
+    "name": "Roboflow Inc.",
+    "source_id": "sample-4028346",
+    "jurisdiction": "Texas, USA",
+    "formation_date": "2025-10-27",
+    "description": "Computer vision platform for training and deploying models.",
+    "website": "https://roboflow.com"
+  },
+  {
+    "name": "Snorkel AI Inc.",
+    "source_id": "sample-5687867",
+    "jurisdiction": "Berlin, DE",
+    "formation_date": "2025-10-24",
+    "description": "Data-centric AI platform for programmatic labeling.",
+    "website": "https://snorkel.ai"
+  },
+  {
+    "name": "Intelligent Cleaning Services LLC",
+    "source_id": "sample-3356635",
+    "jurisdiction": "Toronto, CA",
+    "formation_date": "2025-10-23",
+    "description": "Commercial janitorial and facilities cleaning services."
+  },
+  {
+    "name": "Baseten Inc.",
+    "source_id": "sample-4560633",
+    "jurisdiction": "Paris, FR",
+    "formation_date": "2025-10-22",
+    "description": "Model serving infrastructure for production ML deployments.",
+    "website": "https://baseten.co"
+  },
+  {
+    "name": "Sourcegraph Inc.",
+    "source_id": "sample-4836705",
+    "jurisdiction": "Massachusetts, USA",
+    "formation_date": "2025-10-21",
+    "description": "AI coding assistant and codebase intelligence platform.",
+    "website": "https://sourcegraph.com"
+  },
+  {
+    "name": "ElevenLabs Inc.",
+    "source_id": "sample-8653492",
+    "jurisdiction": "California, USA",
+    "formation_date": "2025-10-15",
+    "description": "AI voice synthesis and speech generation platform.",
+    "website": "https://elevenlabs.io"
+  },
+  {
+    "name": "LangChain Inc.",
+    "source_id": "sample-4531363",
+    "jurisdiction": "New York, USA",
     "formation_date": "2025-10-10",
-    "website": "https://quillcopilot.dev",
-    "description": "AI pair programmer that reviews pull requests and writes tests automatically."
+    "description": "Developer platform for building LLM-powered applications and agents.",
+    "website": "https://langchain.com"
   }
 ]

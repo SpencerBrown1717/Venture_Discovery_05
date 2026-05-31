@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+from pathlib import Path
 
 from .db import Database
 from .export import export as export_dashboard
@@ -88,6 +89,36 @@ def _cmd_stats(args: argparse.Namespace) -> int:
     return 0
 
 
+def _cmd_verify_links(args: argparse.Namespace) -> int:
+    """Check every website in the sample JSON (or DB) and report failures."""
+    from .validate import verify_url
+
+    if args.db:
+        db = Database(args.db)
+        rows = [(c.name, c.website) for c in db.all()]
+        db.close()
+    else:
+        import json
+        from .seed import DATA_FILE
+
+        path = args.sample or DATA_FILE
+        rows = [(r["name"], r.get("website")) for r in json.loads(path.read_text())]
+
+    ok = bad = 0
+    for name, url in rows:
+        if not url:
+            continue
+        if verify_url(url):
+            ok += 1
+            if args.verbose:
+                print(f"  OK  {url}")
+        else:
+            bad += 1
+            print(f"  FAIL {name}: {url}")
+    print(f"verified {ok + bad} links: {ok} ok, {bad} failed")
+    return 1 if bad else 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(prog="scout", description="AI Incorporation Scout Agent")
     p.add_argument("--db", default="scout.db", help="SQLite database path")
@@ -120,6 +151,12 @@ def build_parser() -> argparse.ArgumentParser:
 
     s = sub.add_parser("stats", help="Print database stats")
     s.set_defaults(func=_cmd_stats)
+
+    v = sub.add_parser("verify-links", help="Verify all company website URLs resolve")
+    v.add_argument("--sample", type=Path, default=None, help="Sample JSON path (default: scout/data/sample_companies.json)")
+    v.add_argument("--db", default="", help="Verify URLs stored in this DB instead of sample JSON")
+    v.add_argument("-v", "--verbose", action="store_true")
+    v.set_defaults(func=_cmd_verify_links)
 
     return p
 

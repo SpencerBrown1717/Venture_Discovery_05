@@ -39,6 +39,7 @@ class Company:
     formation_date: Optional[str] = None  # ISO date the company was formed/registered
     discovered_date: Optional[str] = None  # ISO date the scout first saw it
     website: Optional[str] = None
+    website_verified: bool = False  # True only after DNS/HTTP check passes
     description: str = ""
     raw: dict[str, Any] = field(default_factory=dict)
 
@@ -85,6 +86,7 @@ class Company:
             "formation_date": self.formation_date,
             "discovered_date": self.discovered_date,
             "website": self.website,
+            "website_verified": int(self.website_verified),
             "description": self.description,
             "ai_score": self.ai_score,
             "is_ai": int(self.is_ai),
@@ -109,6 +111,7 @@ class Company:
             formation_date=row["formation_date"],
             discovered_date=row["discovered_date"],
             website=row["website"],
+            website_verified=bool(row.get("website_verified", 0)),
             description=row["description"] or "",
             ai_score=row["ai_score"] or 0.0,
             is_ai=bool(row["is_ai"]),
