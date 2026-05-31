@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-05-31T17:38:54+00:00",
+  "generated_at": "2026-05-31T17:40:37+00:00",
   "stats": {
-    "total": 52,
-    "ai_total": 27,
-    "avg_score": 0.324,
-    "months": 4,
+    "total": 67,
+    "ai_total": 12,
+    "avg_score": 0.128,
+    "months": 2,
     "sources": [
       "delaware"
     ]
   },
   "months": [
     "2026-05",
-    "2026-04",
-    "2026-03",
-    "2026-02"
+    "2026-04"
   ],
   "trends": {
     "ai_by_month": [
       {
-        "month": "2026-02",
-        "count": 6
-      },
-      {
-        "month": "2026-03",
-        "count": 5
-      },
-      {
         "month": "2026-04",
-        "count": 7
+        "count": 3
       },
       {
         "month": "2026-05",
@@ -37,7 +27,7 @@
     "categories": [
       {
         "category": "Robotics",
-        "count": 24
+        "count": 9
       },
       {
         "category": "General AI",
@@ -51,21 +41,21 @@
     "geography": [
       {
         "jurisdiction": "Delaware, USA",
-        "count": 27
+        "count": 12
       }
     ],
     "accelerating": [
+      {
+        "category": "Robotics",
+        "current": 7,
+        "previous": 2,
+        "delta": 5
+      },
       {
         "category": "General AI",
         "current": 2,
         "previous": 0,
         "delta": 2
-      },
-      {
-        "category": "Robotics",
-        "current": 7,
-        "previous": 6,
-        "delta": 1
       }
     ],
     "cooling": [
@@ -79,11 +69,11 @@
     "verdicts": [
       {
         "verdict": "Track closely",
-        "count": 16
+        "count": 8
       },
       {
         "verdict": "Strong interest",
-        "count": 11
+        "count": 4
       }
     ]
   },
@@ -93,14 +83,6 @@
       "name": "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
       "ai_category": "Robotics",
       "overall": 83,
-      "confidence": 0.57,
-      "verdict": "Strong interest"
-    },
-    {
-      "id": "delaware-04976c7c2d43",
-      "name": "Xperience Robotics, Inc.",
-      "ai_category": "Robotics",
-      "overall": 82,
       "confidence": 0.57,
       "verdict": "Strong interest"
     },
@@ -121,22 +103,6 @@
       "verdict": "Strong interest"
     },
     {
-      "id": "delaware-a7531966d856",
-      "name": "Feather Robotics Inc.",
-      "ai_category": "Robotics",
-      "overall": 80,
-      "confidence": 0.57,
-      "verdict": "Strong interest"
-    },
-    {
-      "id": "delaware-e262cb6c7754",
-      "name": "INVEXT VERDANT ROBOTICS A SERIES OF INVEXT LLC",
-      "ai_category": "Robotics",
-      "overall": 80,
-      "confidence": 0.57,
-      "verdict": "Strong interest"
-    },
-    {
       "id": "delaware-12530be2e3c4",
       "name": "PALO ALTO CAPITAL ROBOTICS 1 L.P.",
       "ai_category": "Robotics",
@@ -145,42 +111,66 @@
       "verdict": "Strong interest"
     },
     {
-      "id": "delaware-b0b95766f1a6",
-      "name": "Apricity Robotics Inc.",
+      "id": "delaware-45bd6348169c",
+      "name": "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
       "ai_category": "Robotics",
-      "overall": 79,
+      "overall": 75,
       "confidence": 0.57,
-      "verdict": "Strong interest"
+      "verdict": "Track closely"
     },
     {
-      "id": "delaware-8549d9e2db85",
-      "name": "NonPublic Robotics Fund V, a Series of A Master Series, LLC",
+      "id": "delaware-2f231143f92a",
+      "name": "Loki Robotics, Inc.",
       "ai_category": "Robotics",
-      "overall": 79,
+      "overall": 74,
       "confidence": 0.57,
-      "verdict": "Strong interest"
+      "verdict": "Track closely"
     },
     {
-      "id": "delaware-59f0c1c2fabc",
-      "name": "Rendezvous Robotics, Inc.",
-      "ai_category": "Robotics",
-      "overall": 78,
-      "confidence": 0.57,
-      "verdict": "Strong interest"
+      "id": "delaware-d19db1f28a6f",
+      "name": "Allied Innovation Artificial Intelligence Fund, LLC",
+      "ai_category": "General AI",
+      "overall": 73,
+      "confidence": 0.62,
+      "verdict": "Track closely"
     },
     {
-      "id": "delaware-dfa951ca07c7",
-      "name": "Cargo Robotics Feb 2026 a Series of CGF2021 LLC",
+      "id": "delaware-1853541f654f",
+      "name": "Slip Robotics May 2026 a Series of CGF2021 LLC",
       "ai_category": "Robotics",
-      "overall": 78,
+      "overall": 73,
       "confidence": 0.57,
-      "verdict": "Strong interest"
+      "verdict": "Track closely"
     },
     {
-      "id": "delaware-a2f86fed8eb1",
-      "name": "Agility Robotics SPV Feb 2026 a Series of CGF2021 LLC",
+      "id": "delaware-39af47df0524",
+      "name": "Luminous Robotics, Inc.",
       "ai_category": "Robotics",
-      "overall": 76,
+      "overall": 73,
+      "confidence": 0.57,
+      "verdict": "Track closely"
+    },
+    {
+      "id": "delaware-de0d4ac7a748",
+      "name": "Artificial Intelligence Progress Research, LP",
+      "ai_category": "General AI",
+      "overall": 72,
+      "confidence": 0.62,
+      "verdict": "Track closely"
+    },
+    {
+      "id": "delaware-60aa7517b174",
+      "name": "1X Robotics Mar 2026 a Series of CGF2021 LLC",
+      "ai_category": "Robotics",
+      "overall": 72,
+      "confidence": 0.57,
+      "verdict": "Track closely"
+    },
+    {
+      "id": "delaware-19f217e370e7",
+      "name": "Pentra Robotics, inc.",
+      "ai_category": "Robotics",
+      "overall": 72,
       "confidence": 0.57,
       "verdict": "Track closely"
     }
@@ -1689,1972 +1679,6 @@
       "month": "2026-04"
     },
     {
-      "name": "Feather Robotics Inc.",
-      "source": "delaware",
-      "source_id": "0002128909",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-04-13",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002128909"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002128909",
-        "accession": "0002128909-26-000001:primary_doc.xml",
-        "file_date": "2026-04-13",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "CA"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002128909&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Feather Robotics Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Omar Kim",
-          "role": "Co-founder & CEO",
-          "background": "Former senior researcher at Amazon AWS; PhD, University of Toronto.",
-          "previous_companies": [
-            "Amazon AWS"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Omar%20Kim%20featherroboticsinc.",
-          "pedigree": 90,
-          "source": "synthetic"
-        },
-        {
-          "name": "Zoe Haddad",
-          "role": "Co-founder & CTO",
-          "background": "Early engineer at Figma (since acquired); background in Computer Science.",
-          "previous_companies": [
-            "Figma"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Zoe%20Haddad%20featherroboticsinc.",
-          "pedigree": 70,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 81,
-            "reason": "2 founder(s) profiled; avg pedigree 80/100"
-          },
-          "market_size": {
-            "score": 84,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 63,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 90,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 82,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 79,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 80,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.73,
-        "overall": 80,
-        "rationale": "Overall opportunity score 80/100 (confidence 56%). Strongest on technical depth and market size; watch differentiation. Led by Omar Kim (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-a7531966d856",
-      "month": "2026-04"
-    },
-    {
-      "name": "Reliable Robotics a Series of What If Ventures Master LLC",
-      "source": "delaware",
-      "source_id": "0002117270",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-04-13",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002117270"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002117270",
-        "accession": "0002117270-26-000001:primary_doc.xml",
-        "file_date": "2026-04-13",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002117270&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Reliable Robotics a Series of What If Ventures Master LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Maya Haddad",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Scale AI (since acquired); background in Machine Learning.",
-          "previous_companies": [
-            "Scale AI"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Maya%20Haddad%20reliableroboticsaseriesofwhatifventuresmasterllc",
-          "pedigree": 77,
-          "source": "synthetic"
-        },
-        {
-          "name": "Sofia Yamamoto",
-          "role": "Co-founder & CTO",
-          "background": "Second-time founder; NLP at MIT.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Sofia%20Yamamoto%20reliableroboticsaseriesofwhatifventuresmasterllc",
-          "pedigree": 61,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 73,
-            "reason": "2 founder(s) profiled; avg pedigree 69/100"
-          },
-          "market_size": {
-            "score": 79,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 54,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 91,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 79,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 83,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 75,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.7,
-        "overall": 75,
-        "rationale": "Overall opportunity score 75/100 (confidence 56%). Strongest on technical depth and timing; watch differentiation. Led by Maya Haddad (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-33bd16b4b13a",
-      "month": "2026-04"
-    },
-    {
-      "name": "Apricity Robotics Inc.",
-      "source": "delaware",
-      "source_id": "0002021333",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-04-09",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002021333"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002021333",
-        "accession": "0002021333-26-000002:primary_doc.xml",
-        "file_date": "2026-04-09",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "OH"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002021333&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Apricity Robotics Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Noah Yamamoto",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Benchling (since acquired); background in Machine Learning.",
-          "previous_companies": [
-            "Benchling"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Noah%20Yamamoto%20apricityroboticsinc.",
-          "pedigree": 71,
-          "source": "synthetic"
-        },
-        {
-          "name": "Liam Novak",
-          "role": "Co-founder & CTO",
-          "background": "Former senior researcher at Meta AI (FAIR); PhD, MIT.",
-          "previous_companies": [
-            "Meta AI (FAIR)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Liam%20Novak%20apricityroboticsinc.",
-          "pedigree": 91,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 85,
-            "reason": "2 founder(s) profiled; avg pedigree 81/100"
-          },
-          "market_size": {
-            "score": 77,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 59,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 92,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 84,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 79,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 79,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.72,
-        "overall": 79,
-        "rationale": "Overall opportunity score 79/100 (confidence 56%). Strongest on technical depth and team; watch differentiation. Led by Noah Yamamoto (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-b0b95766f1a6",
-      "month": "2026-04"
-    },
-    {
-      "name": "Rendezvous Robotics, Inc.",
-      "source": "delaware",
-      "source_id": "0002114701",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-04-02",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002114701"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002114701",
-        "accession": "0002114701-26-000001:primary_doc.xml",
-        "file_date": "2026-04-02",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "CO"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114701&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Rendezvous Robotics, Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Lucas Garcia",
-          "role": "Co-founder & CEO",
-          "background": "Former senior researcher at Google DeepMind; PhD, Cambridge.",
-          "previous_companies": [
-            "Google DeepMind"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Lucas%20Garcia%20rendezvousrobotics,inc.",
-          "pedigree": 91,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 86,
-            "reason": "1 founder(s) profiled; avg pedigree 91/100"
-          },
-          "market_size": {
-            "score": 75,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 61,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 88,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 83,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 79,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 78,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.72,
-        "overall": 78,
-        "rationale": "Overall opportunity score 78/100 (confidence 56%). Strongest on technical depth and team; watch differentiation. Led by Lucas Garcia (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-59f0c1c2fabc",
-      "month": "2026-04"
-    },
-    {
-      "name": "RISE Robotics I, a series of Capitalize Investments LLC",
-      "source": "delaware",
-      "source_id": "0002126049",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-31",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002126049"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002126049",
-        "accession": "0002126049-26-000001:primary_doc.xml",
-        "file_date": "2026-03-31",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "NV"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002126049&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "RISE Robotics I, a series of Capitalize Investments LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Aisha Walsh",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Figma (since acquired); background in Electrical Engineering.",
-          "previous_companies": [
-            "Figma"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Aisha%20Walsh%20riseroboticsi,aseriesofcapitalizeinvestmentsllc",
-          "pedigree": 73,
-          "source": "synthetic"
-        },
-        {
-          "name": "Maya Garcia",
-          "role": "Co-founder & CTO",
-          "background": "Second-time founder; Robotics at MIT.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Maya%20Garcia%20riseroboticsi,aseriesofcapitalizeinvestmentsllc",
-          "pedigree": 61,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 62,
-            "reason": "2 founder(s) profiled; avg pedigree 67/100"
-          },
-          "market_size": {
-            "score": 83,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 63,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 87,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 76,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 78,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 74,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.69,
-        "overall": 74,
-        "rationale": "Overall opportunity score 74/100 (confidence 56%). Strongest on technical depth and market size; watch team. Led by Aisha Walsh (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-7e1734e9677d",
-      "month": "2026-03"
-    },
-    {
-      "name": "Keda Robotics, Inc.",
-      "source": "delaware",
-      "source_id": "0002125382",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-27",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002125382"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002125382",
-        "accession": "0002125382-26-000001:primary_doc.xml",
-        "file_date": "2026-03-27",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "NY"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002125382&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Keda Robotics, Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Lucas Rossi",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Hugging Face (since acquired); background in NLP.",
-          "previous_companies": [
-            "Hugging Face"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Lucas%20Rossi%20kedarobotics,inc.",
-          "pedigree": 68,
-          "source": "synthetic"
-        },
-        {
-          "name": "Ethan Okafor",
-          "role": "Co-founder & CTO",
-          "background": "Second-time founder; Applied Mathematics at CMU.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Ethan%20Okafor%20kedarobotics,inc.",
-          "pedigree": 55,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 56,
-            "reason": "2 founder(s) profiled; avg pedigree 61/100"
-          },
-          "market_size": {
-            "score": 80,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 57,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 88,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 87,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 85,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 73,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.68,
-        "overall": 73,
-        "rationale": "Overall opportunity score 73/100 (confidence 56%). Strongest on technical depth and defensibility; watch team. Led by Lucas Rossi (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-84fa8527409e",
-      "month": "2026-03"
-    },
-    {
-      "name": "Cargo Robotics Feb 2026 a Series of CGF2021 LLC",
-      "source": "delaware",
-      "source_id": "0002114828",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-24",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002114828"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002114828",
-        "accession": "0002114828-26-000001:primary_doc.xml",
-        "file_date": "2026-03-24",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002114828&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Cargo Robotics Feb 2026 a Series of CGF2021 LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Aisha Yamamoto",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Scale AI (since acquired); background in Electrical Engineering.",
-          "previous_companies": [
-            "Scale AI"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Aisha%20Yamamoto%20cargoroboticsfeb2026aseriesofcgf2021llc",
-          "pedigree": 77,
-          "source": "synthetic"
-        },
-        {
-          "name": "Sofia Larsson",
-          "role": "Co-founder & CTO",
-          "background": "Early engineer at Cruise (since acquired); background in Computer Science.",
-          "previous_companies": [
-            "Cruise"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Sofia%20Larsson%20cargoroboticsfeb2026aseriesofcgf2021llc",
-          "pedigree": 68,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 72,
-            "reason": "2 founder(s) profiled; avg pedigree 72/100"
-          },
-          "market_size": {
-            "score": 77,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 66,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 92,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 86,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 84,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 78,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.72,
-        "overall": 78,
-        "rationale": "Overall opportunity score 78/100 (confidence 56%). Strongest on technical depth and defensibility; watch differentiation. Led by Aisha Yamamoto (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-dfa951ca07c7",
-      "month": "2026-03"
-    },
-    {
-      "name": "GSBackers Verdant Robotics Fund II a Series of CGF2021 LLC",
-      "source": "delaware",
-      "source_id": "0002122849",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-23",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002122849"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002122849",
-        "accession": "0002122849-26-000001:primary_doc.xml",
-        "file_date": "2026-03-23",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002122849&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "GSBackers Verdant Robotics Fund II a Series of CGF2021 LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Mateo Novak",
-          "role": "Co-founder & CEO",
-          "background": "Second-time founder; Computational Biology at Caltech.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Mateo%20Novak%20gsbackersverdantroboticsfundiiaseriesofcgf2021llc",
-          "pedigree": 50,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 47,
-            "reason": "1 founder(s) profiled; avg pedigree 50/100"
-          },
-          "market_size": {
-            "score": 81,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 65,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 93,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 80,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 75,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 72,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.68,
-        "overall": 72,
-        "rationale": "Overall opportunity score 72/100 (confidence 56%). Strongest on technical depth and market size; watch team. Led by Mateo Novak (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-5aa1835eedd3",
-      "month": "2026-03"
-    },
-    {
-      "name": "Evolved Robotics, Inc.",
-      "source": "delaware",
-      "source_id": "0002113387",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-20",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002113387"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002113387",
-        "accession": "0002113387-26-000001:primary_doc.xml",
-        "file_date": "2026-03-20",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "WA"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002113387&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Evolved Robotics, Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Diego Kim",
-          "role": "Co-founder & CEO",
-          "background": "Second-time founder; Electrical Engineering at ETH Z\u00fcrich.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Diego%20Kim%20evolvedrobotics,inc.",
-          "pedigree": 53,
-          "source": "synthetic"
-        },
-        {
-          "name": "Sofia Larsson",
-          "role": "Co-founder & CTO",
-          "background": "Second-time founder; Applied Mathematics at Stanford.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Sofia%20Larsson%20evolvedrobotics,inc.",
-          "pedigree": 52,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 48,
-            "reason": "2 founder(s) profiled; avg pedigree 52/100"
-          },
-          "market_size": {
-            "score": 82,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 52,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 85,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 78,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 76,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 68,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.65,
-        "overall": 68,
-        "rationale": "Overall opportunity score 68/100 (confidence 56%). Strongest on technical depth and market size; watch team. Led by Diego Kim (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-53a0e9a49abc",
-      "month": "2026-03"
-    },
-    {
-      "name": "Agility Robotics SPV Feb 2026 a Series of CGF2021 LLC",
-      "source": "delaware",
-      "source_id": "0002113357",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-26",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002113357"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002113357",
-        "accession": "0002113357-26-000001:primary_doc.xml",
-        "file_date": "2026-02-26",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002113357&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Agility Robotics SPV Feb 2026 a Series of CGF2021 LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Diego Novak",
-          "role": "Co-founder & CEO",
-          "background": "Second-time founder; Electrical Engineering at Stanford.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Diego%20Novak%20agilityroboticsspvfeb2026aseriesofcgf2021llc",
-          "pedigree": 54,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 58,
-            "reason": "1 founder(s) profiled; avg pedigree 54/100"
-          },
-          "market_size": {
-            "score": 84,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 62,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 95,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 86,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 83,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 76,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.7,
-        "overall": 76,
-        "rationale": "Overall opportunity score 76/100 (confidence 56%). Strongest on technical depth and defensibility; watch team. Led by Diego Novak (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-a2f86fed8eb1",
-      "month": "2026-02"
-    },
-    {
-      "name": "Xperience Robotics, Inc.",
-      "source": "delaware",
-      "source_id": "0001960719",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-24",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0001960719"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0001960719",
-        "accession": "0001960719-26-000002:primary_doc.xml",
-        "file_date": "2026-02-24",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "OH"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001960719&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Xperience Robotics, Inc. surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Clara Larsson",
-          "role": "Co-founder & CEO",
-          "background": "Former senior researcher at Meta AI (FAIR); PhD, Berkeley.",
-          "previous_companies": [
-            "Meta AI (FAIR)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Clara%20Larsson%20xperiencerobotics,inc.",
-          "pedigree": 90,
-          "source": "synthetic"
-        },
-        {
-          "name": "Aisha Larsson",
-          "role": "Co-founder & CTO",
-          "background": "Former senior researcher at Tesla Autopilot; PhD, CMU.",
-          "previous_companies": [
-            "Tesla Autopilot"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Aisha%20Larsson%20xperiencerobotics,inc.",
-          "pedigree": 91,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 94,
-            "reason": "2 founder(s) profiled; avg pedigree 90/100"
-          },
-          "market_size": {
-            "score": 83,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 60,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 88,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 86,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 83,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 82,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.74,
-        "overall": 82,
-        "rationale": "Overall opportunity score 82/100 (confidence 56%). Strongest on team and technical depth; watch differentiation. Led by Clara Larsson (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-04976c7c2d43",
-      "month": "2026-02"
-    },
-    {
-      "name": "Coco Robotics DDGR II a Series of CGF2021 LLC",
-      "source": "delaware",
-      "source_id": "0002107438",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-19",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002107438"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002107438",
-        "accession": "0002107438-26-000001:primary_doc.xml",
-        "file_date": "2026-02-19",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002107438&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "Coco Robotics DDGR II a Series of CGF2021 LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Noah Cohen",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Figma (since acquired); background in NLP.",
-          "previous_companies": [
-            "Figma"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Noah%20Cohen%20cocoroboticsddgriiaseriesofcgf2021llc",
-          "pedigree": 70,
-          "source": "synthetic"
-        },
-        {
-          "name": "Theo Kim",
-          "role": "Co-founder & CTO",
-          "background": "Early engineer at Scale AI (since acquired); background in Robotics.",
-          "previous_companies": [
-            "Scale AI"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Theo%20Kim%20cocoroboticsddgriiaseriesofcgf2021llc",
-          "pedigree": 66,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 63,
-            "reason": "2 founder(s) profiled; avg pedigree 68/100"
-          },
-          "market_size": {
-            "score": 76,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 59,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 94,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 80,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 79,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 74,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.69,
-        "overall": 74,
-        "rationale": "Overall opportunity score 74/100 (confidence 56%). Strongest on technical depth and defensibility; watch differentiation. Led by Noah Cohen (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-f2a36d572294",
-      "month": "2026-02"
-    },
-    {
-      "name": "INVEXT VERDANT ROBOTICS A SERIES OF INVEXT LLC",
-      "source": "delaware",
-      "source_id": "0002069596",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-18",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002069596"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002069596",
-        "accession": "0002069596-26-000004:primary_doc.xml",
-        "file_date": "2026-02-18",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "CA"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002069596&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "INVEXT VERDANT ROBOTICS A SERIES OF INVEXT LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Kenji Kim",
-          "role": "Co-founder & CEO",
-          "background": "Early engineer at Hugging Face (since acquired); background in Applied Mathematics.",
-          "previous_companies": [
-            "Hugging Face"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Kenji%20Kim%20invextverdantroboticsaseriesofinvextllc",
-          "pedigree": 74,
-          "source": "synthetic"
-        },
-        {
-          "name": "Clara Yamamoto",
-          "role": "Co-founder & CTO",
-          "background": "Former senior researcher at Palantir; PhD, Oxford.",
-          "previous_companies": [
-            "Palantir"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Clara%20Yamamoto%20invextverdantroboticsaseriesofinvextllc",
-          "pedigree": 89,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 82,
-            "reason": "2 founder(s) profiled; avg pedigree 81/100"
-          },
-          "market_size": {
-            "score": 84,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 58,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 93,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 83,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 79,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 80,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.73,
-        "overall": 80,
-        "rationale": "Overall opportunity score 80/100 (confidence 56%). Strongest on technical depth and market size; watch differentiation. Led by Kenji Kim (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-e262cb6c7754",
-      "month": "2026-02"
-    },
-    {
-      "name": "General Robotics A a Series of What If Ventures Master LLC",
-      "source": "delaware",
-      "source_id": "0002111163",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-13",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002111163"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002111163",
-        "accession": "0002111163-26-000001:primary_doc.xml",
-        "file_date": "2026-02-13",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "DE"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002111163&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "General Robotics A a Series of What If Ventures Master LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Maya Okafor",
-          "role": "Co-founder & CEO",
-          "background": "Second-time founder; NLP at MIT.",
-          "previous_companies": [
-            "(prior startup, undisclosed)"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Maya%20Okafor%20generalroboticsaaseriesofwhatifventuresmasterllc",
-          "pedigree": 60,
-          "source": "synthetic"
-        },
-        {
-          "name": "Yuki Larsson",
-          "role": "Co-founder & CTO",
-          "background": "Early engineer at Figma (since acquired); background in Applied Mathematics.",
-          "previous_companies": [
-            "Figma"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Yuki%20Larsson%20generalroboticsaaseriesofwhatifventuresmasterllc",
-          "pedigree": 67,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 60,
-            "reason": "2 founder(s) profiled; avg pedigree 63/100"
-          },
-          "market_size": {
-            "score": 85,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 59,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 85,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 79,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 78,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 73,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Track closely",
-        "conviction": 0.68,
-        "overall": 73,
-        "rationale": "Overall opportunity score 73/100 (confidence 56%). Strongest on market size and technical depth; watch differentiation. Led by Maya Okafor (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-357a4e475bc6",
-      "month": "2026-02"
-    },
-    {
-      "name": "NonPublic Robotics Fund V, a Series of A Master Series, LLC",
-      "source": "delaware",
-      "source_id": "0002109903",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-10",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002109903"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002109903",
-        "accession": "0002109903-26-000001:primary_doc.xml",
-        "file_date": "2026-02-10",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "FL"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002109903&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.52,
-      "is_ai": true,
-      "ai_signals": [
-        "robotics (name)"
-      ],
-      "ai_category": "Robotics",
-      "memo": {
-        "generated_by": "heuristic",
-        "one_liner": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-        "market_category": "Robotics",
-        "estimated_stage": "Pre-seed / Formation",
-        "thesis": "NonPublic Robotics Fund V, a Series of A Master Series, LLC surfaced via delaware as a newly formed entity in Delaware, USA. Classifier confidence that it is AI-related is moderate (52%), best fitting the Robotics category. No website on file yet (typical for very recently formed entities).",
-        "reasoning": "Category placement and stage are inferred from name, registry metadata, and any on-page text. Signals: robotics (name). Market read: Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "market_note": "Hardware + AI; long capital cycles and real-world reliability bar, but durable moats once deployed.",
-        "risks": [
-          "AI-relevance is uncertain; may be buzzword-only positioning.",
-          "No discoverable web presence yet; hard to verify traction.",
-          "Hardware capital intensity and long deployment cycles."
-        ],
-        "signals": [
-          "robotics (name)"
-        ],
-        "website_analyzed": false
-      },
-      "founders": [
-        {
-          "name": "Maya Rossi",
-          "role": "Co-founder & CEO",
-          "background": "Former senior researcher at Tesla Autopilot; PhD, ETH Z\u00fcrich.",
-          "previous_companies": [
-            "Tesla Autopilot"
-          ],
-          "profile_url": "https://www.linkedin.com/search/results/people/?keywords=Maya%20Rossi%20nonpublicroboticsfundv,aseriesofamasterseries,llc",
-          "pedigree": 90,
-          "source": "synthetic"
-        }
-      ],
-      "scores": {
-        "dimensions": {
-          "team_quality": {
-            "score": 95,
-            "reason": "1 founder(s) profiled; avg pedigree 90/100"
-          },
-          "market_size": {
-            "score": 78,
-            "reason": "Robotics TAM prior."
-          },
-          "product_differentiation": {
-            "score": 53,
-            "reason": "1 strong AI signal(s); description specificity factored in."
-          },
-          "technical_complexity": {
-            "score": 85,
-            "reason": "Robotics technical baseline scaled by AI confidence."
-          },
-          "defensibility": {
-            "score": 75,
-            "reason": "Robotics moat profile (data/regulatory/network effects)."
-          },
-          "timing": {
-            "score": 85,
-            "reason": "Current investor momentum in Robotics."
-          }
-        },
-        "overall": 79,
-        "confidence": 0.57
-      },
-      "competitive": {
-        "category": "Robotics",
-        "leaders": [
-          "Figure",
-          "Physical Intelligence",
-          "Skild AI",
-          "Covariant"
-        ],
-        "adjacent": [
-          "1X Robotics Mar 2026 a Series of CGF2021 LLC",
-          "Slip Robotics May 2026 a Series of CGF2021 LLC",
-          "OT Robotics Fund I, LLC",
-          "Luminous Robotics Inc Apr 2026 a Series of CGF2021 LLC",
-          "PALO ALTO CAPITAL ROBOTICS 2 L.P.",
-          "PALO ALTO CAPITAL ROBOTICS 1 L.P."
-        ],
-        "white_space": "real-world reliability and a profitable beachhead deployment.",
-        "positioning": "Enters Robotics against incumbents like Figure, Physical Intelligence, Skild AI. Key white space: real-world reliability and a profitable beachhead deployment."
-      },
-      "recommendation": {
-        "verdict": "Strong interest",
-        "conviction": 0.72,
-        "overall": 79,
-        "rationale": "Overall opportunity score 79/100 (confidence 56%). Strongest on team and technical depth; watch differentiation. Led by Maya Rossi (Co-founder & CEO). Competes with Figure, Physical Intelligence, Skild AI."
-      },
-      "id": "delaware-8549d9e2db85",
-      "month": "2026-02"
-    },
-    {
       "name": "Tribe Capital Autonomous Fund I, L.P.",
       "source": "delaware",
       "source_id": "0002134101",
@@ -3739,46 +1763,404 @@
       "month": "2026-04"
     },
     {
-      "name": "Integris AI Healthcare Group, Inc.",
+      "name": "Heitman Construction Finance, L.P.",
       "source": "delaware",
-      "source_id": "0001001988",
+      "source_id": "0002125517",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-17",
+      "formation_date": "2026-05-28",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0001001988"
+        "SEC EDGAR CIK 0002125517"
       ],
       "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0001001988",
-        "accession": "0001001988-26-000004:primary_doc.xml",
-        "file_date": "2026-03-17",
+        "cik": "0002125517",
+        "accession": "0002125517-26-000001:primary_doc.xml",
+        "file_date": "2026-05-28",
         "file_type": "D",
         "inc_states": [
           "DE"
         ],
         "biz_states": [
-          "DC"
+          "IL"
         ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001001988&type=D",
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002125517&type=D",
         "registry": "SEC EDGAR"
       },
-      "ai_score": 0.48,
+      "ai_score": 0.0,
       "is_ai": false,
-      "ai_signals": [
-        "ai (name)"
-      ],
+      "ai_signals": [],
       "ai_category": "",
       "memo": null,
       "founders": [],
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-707ab7a1ef50",
-      "month": "2026-03"
+      "id": "delaware-e5f0e6eadbe7",
+      "month": "2026-05"
+    },
+    {
+      "name": "MLG Legacy Fund LLC",
+      "source": "delaware",
+      "source_id": "0001815515",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-28",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001815515"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001815515",
+        "accession": "0001815515-26-000002:primary_doc.xml",
+        "file_date": "2026-05-28",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "WI"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001815515&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-f101256f6f3a",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2307",
+      "source": "delaware",
+      "source_id": "0002129075",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002129075"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002129075",
+        "accession": "0002129075-26-000001:primary_doc.xml",
+        "file_date": "2026-05-21",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002129075&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-04452e9c205f",
+      "month": "2026-05"
+    },
+    {
+      "name": "Equitybee 22-81541 a Series of Equitybee cFund Master LLC",
+      "source": "delaware",
+      "source_id": "0002120674",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002120674"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002120674",
+        "accession": "0002120674-26-000004:primary_doc.xml",
+        "file_date": "2026-05-21",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002120674&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-a3ebc8f9234a",
+      "month": "2026-05"
+    },
+    {
+      "name": "Equitybee 22-47140, a Series of Equitybee cFund Master LLC",
+      "source": "delaware",
+      "source_id": "0002077288",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002077288"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002077288",
+        "accession": "0002077288-26-000001:primary_doc.xml",
+        "file_date": "2026-05-21",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002077288&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-e625d8185a2d",
+      "month": "2026-05"
+    },
+    {
+      "name": "Equitybee 22-11976, a Series of Equitybee cFund Master LLC",
+      "source": "delaware",
+      "source_id": "0002018587",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002018587"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002018587",
+        "accession": "0002018587-26-000002:primary_doc.xml",
+        "file_date": "2026-05-21",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "UT"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002018587&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-b73571f9598e",
+      "month": "2026-05"
+    },
+    {
+      "name": "Equitybee 22-94711, a Series of Equitybee cFund Master LLC",
+      "source": "delaware",
+      "source_id": "0002025841",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002025841"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002025841",
+        "accession": "0002025841-26-000003:primary_doc.xml",
+        "file_date": "2026-05-21",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "UT"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002025841&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-6d50eebaa70e",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2231",
+      "source": "delaware",
+      "source_id": "0002100614",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-20",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002100614"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002100614",
+        "accession": "0002100614-26-000001:primary_doc.xml",
+        "file_date": "2026-05-20",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100614&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-53ad9b8a3e41",
+      "month": "2026-05"
+    },
+    {
+      "name": "SP Goal-Line Growth Fund, LP",
+      "source": "delaware",
+      "source_id": "0002025913",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-20",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002025913"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002025913",
+        "accession": "0000935836-26-000293:primary_doc.xml",
+        "file_date": "2026-05-20",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002025913&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-e5110ad57f9d",
+      "month": "2026-05"
+    },
+    {
+      "name": "Blackstone Infrastructure Partners F.1 L.P.",
+      "source": "delaware",
+      "source_id": "0001735629",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-20",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001735629"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001735629",
+        "accession": "0001735629-26-000002:primary_doc.xml",
+        "file_date": "2026-05-20",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001735629&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-4bf8d4d3ee9d",
+      "month": "2026-05"
     },
     {
       "name": "Blackstone Infrastructure Partners F.2 L.P.",
@@ -3821,6 +2203,166 @@
       "month": "2026-05"
     },
     {
+      "name": "NexPoint Small Bay III DST",
+      "source": "delaware",
+      "source_id": "0002094145",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-19",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002094145"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002094145",
+        "accession": "0002094145-26-000010:primary_doc.xml",
+        "file_date": "2026-05-19",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002094145&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-dc8cc92111d3",
+      "month": "2026-05"
+    },
+    {
+      "name": "HPI Farmhouse DST",
+      "source": "delaware",
+      "source_id": "0002107632",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-19",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002107632"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002107632",
+        "accession": "0002107632-26-000007:primary_doc.xml",
+        "file_date": "2026-05-19",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CT"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002107632&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-e4760376fabf",
+      "month": "2026-05"
+    },
+    {
+      "name": "BR Diversified Industrial Portfolio 6, DST",
+      "source": "delaware",
+      "source_id": "0002084268",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-19",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002084268"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002084268",
+        "accession": "0002084268-26-000001:primary_doc.xml",
+        "file_date": "2026-05-19",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002084268&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-7e5a7ab28c9a",
+      "month": "2026-05"
+    },
+    {
+      "name": "Eclipse SPV XXXII, L.P.",
+      "source": "delaware",
+      "source_id": "0002129852",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-18",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002129852"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002129852",
+        "accession": "0002129852-26-000001:primary_doc.xml",
+        "file_date": "2026-05-18",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002129852&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-179f6d1ecf40",
+      "month": "2026-05"
+    },
+    {
       "name": "CAMPBELL FUND TRUST",
       "source": "delaware",
       "source_id": "0001043951",
@@ -3858,6 +2400,86 @@
       "competitive": null,
       "recommendation": null,
       "id": "delaware-37c7c911c6a3",
+      "month": "2026-05"
+    },
+    {
+      "name": "Summit Street US Equity Value Fund, L.P.",
+      "source": "delaware",
+      "source_id": "0001470484",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-14",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001470484"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001470484",
+        "accession": "0001470484-26-000001:primary_doc.xml",
+        "file_date": "2026-05-14",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001470484&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-52b5808c598a",
+      "month": "2026-05"
+    },
+    {
+      "name": "Hotai Securities Inc",
+      "source": "delaware",
+      "source_id": "0002135153",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-14",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002135153"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002135153",
+        "accession": "0002135153-26-000001:primary_doc.xml",
+        "file_date": "2026-05-14",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "DE"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002135153&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-15995c88f858",
       "month": "2026-05"
     },
     {
@@ -3941,6 +2563,206 @@
       "month": "2026-05"
     },
     {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2277",
+      "source": "delaware",
+      "source_id": "0002122287",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-12",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002122287"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002122287",
+        "accession": "0002122287-26-000001:primary_doc.xml",
+        "file_date": "2026-05-12",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002122287&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-f5a5acd9bd47",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2283",
+      "source": "delaware",
+      "source_id": "0002122281",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-06",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002122281"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002122281",
+        "accession": "0002122281-26-000001:primary_doc.xml",
+        "file_date": "2026-05-06",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002122281&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-8c4eb4a46df5",
+      "month": "2026-05"
+    },
+    {
+      "name": "Chicago Atlantic Credit Opportunities III, LP",
+      "source": "delaware",
+      "source_id": "0001989339",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-06",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001989339"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001989339",
+        "accession": "0001989339-26-000001:primary_doc.xml",
+        "file_date": "2026-05-06",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "FL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001989339&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-027c2cedeb45",
+      "month": "2026-05"
+    },
+    {
+      "name": "RGP Income Fund II, LP",
+      "source": "delaware",
+      "source_id": "0002063453",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-06",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002063453"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002063453",
+        "accession": "0002063453-26-000005:primary_doc.xml",
+        "file_date": "2026-05-06",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002063453&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-f883ac191563",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2309",
+      "source": "delaware",
+      "source_id": "0002129073",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-05",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002129073"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002129073",
+        "accession": "0002129073-26-000001:primary_doc.xml",
+        "file_date": "2026-05-05",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002129073&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-e028611888b8",
+      "month": "2026-05"
+    },
+    {
       "name": "Sound Point Discovery Fund LLC",
       "source": "delaware",
       "source_id": "0001674820",
@@ -3979,6 +2801,330 @@
       "recommendation": null,
       "id": "delaware-d8ace45295e6",
       "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2230",
+      "source": "delaware",
+      "source_id": "0002100615",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-01",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002100615"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002100615",
+        "accession": "0002100615-26-000002:primary_doc.xml",
+        "file_date": "2026-05-01",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100615&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-50dccb4e0f7b",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2235",
+      "source": "delaware",
+      "source_id": "0002105410",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-01",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002105410"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002105410",
+        "accession": "0002105410-26-000002:primary_doc.xml",
+        "file_date": "2026-05-01",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002105410&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-4fe7f8709382",
+      "month": "2026-05"
+    },
+    {
+      "name": "AUA Private Equity Fund III, LP",
+      "source": "delaware",
+      "source_id": "0002027690",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-05-01",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002027690"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002027690",
+        "accession": "0002027690-26-000001:primary_doc.xml",
+        "file_date": "2026-05-01",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE",
+          "DE",
+          "DE",
+          "DE",
+          "DE"
+        ],
+        "biz_states": [
+          "FL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002027690&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-5ab8f1385a68",
+      "month": "2026-05"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2241",
+      "source": "delaware",
+      "source_id": "0002100695",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002100695"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002100695",
+        "accession": "0002100695-26-000002:primary_doc.xml",
+        "file_date": "2026-04-29",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100695&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-3cb4b70dbfe1",
+      "month": "2026-04"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund II LLC - Series 33",
+      "source": "delaware",
+      "source_id": "0002079794",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002079794"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002079794",
+        "accession": "0002079794-26-000001:primary_doc.xml",
+        "file_date": "2026-04-29",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002079794&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-cb8c6402cf4b",
+      "month": "2026-04"
+    },
+    {
+      "name": "WESTERN ASSET EMERGING MARKETS LOCAL DEBT PORTFOLIO, L.L.C.",
+      "source": "delaware",
+      "source_id": "0001385121",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001385121"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001385121",
+        "accession": "0001385121-26-000001:primary_doc.xml",
+        "file_date": "2026-04-29",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001385121&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-5ba94ae6af87",
+      "month": "2026-04"
+    },
+    {
+      "name": "WESTERN ASSET MORTGAGE BACKED SECURITIES PORTFOLIO, L.L.C.",
+      "source": "delaware",
+      "source_id": "0001459359",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001459359"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001459359",
+        "accession": "0001459359-26-000001:primary_doc.xml",
+        "file_date": "2026-04-29",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001459359&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-1fe3b29dede1",
+      "month": "2026-04"
+    },
+    {
+      "name": "WESTERN ASSET OPPORTUNISTIC STRUCTURED SECURITIES PORTFOLIO, L.L.C.",
+      "source": "delaware",
+      "source_id": "0001410966",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-29",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001410966"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001410966",
+        "accession": "0001410966-26-000001:primary_doc.xml",
+        "file_date": "2026-04-29",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "CA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001410966&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-53f9a7e20e2c",
+      "month": "2026-04"
     },
     {
       "name": "Fort Washington Private Equity Small Market Investors III-B, L.P.",
@@ -4101,6 +3247,286 @@
       "month": "2026-04"
     },
     {
+      "name": "NexPoint Oasis DST",
+      "source": "delaware",
+      "source_id": "0002098911",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-28",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002098911"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002098911",
+        "accession": "0002098911-26-000008:primary_doc.xml",
+        "file_date": "2026-04-28",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002098911&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-35d3baee260d",
+      "month": "2026-04"
+    },
+    {
+      "name": "474 Holdco LLC",
+      "source": "delaware",
+      "source_id": "0002131060",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-28",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002131060"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002131060",
+        "accession": "0002131060-26-000002:primary_doc.xml",
+        "file_date": "2026-04-28",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "FL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002131060&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-1446bba6cd77",
+      "month": "2026-04"
+    },
+    {
+      "name": "Equitybee 22-36657, a Series of Equitybee cFund Master LLC",
+      "source": "delaware",
+      "source_id": "0001955868",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-27",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001955868"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001955868",
+        "accession": "0001955868-26-000002:primary_doc.xml",
+        "file_date": "2026-04-27",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "UT"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001955868&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-33a5573c2931",
+      "month": "2026-04"
+    },
+    {
+      "name": "JWCM Vivian, DST",
+      "source": "delaware",
+      "source_id": "0002087350",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-27",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002087350"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002087350",
+        "accession": "0002087350-26-000008:primary_doc.xml",
+        "file_date": "2026-04-27",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002087350&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-634119f14d86",
+      "month": "2026-04"
+    },
+    {
+      "name": "Catalio Structured Opportunities Fund II, LP",
+      "source": "delaware",
+      "source_id": "0002004375",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-24",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002004375"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002004375",
+        "accession": "0002062357-26-000108:primary_doc.xml",
+        "file_date": "2026-04-24",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002004375&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-c55e7711505a",
+      "month": "2026-04"
+    },
+    {
+      "name": "Life Biosciences LLC",
+      "source": "delaware",
+      "source_id": "0001751806",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-24",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0001751806"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0001751806",
+        "accession": "0001751806-26-000003:primary_doc.xml",
+        "file_date": "2026-04-24",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "MA"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001751806&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-4964c6ac41d8",
+      "month": "2026-04"
+    },
+    {
+      "name": "InvestX Series (OPN-U5), a Series of InvestX Master LLC",
+      "source": "delaware",
+      "source_id": "0002127034",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-24",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002127034"
+      ],
+      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002127034",
+        "accession": "0002127034-26-000001:primary_doc.xml",
+        "file_date": "2026-04-24",
+        "file_type": "D",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "NY"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002127034&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-0cd027ea8e2d",
+      "month": "2026-04"
+    },
+    {
       "name": "InvestX Series (OPN-U5 QP), a Series of InvestX Master LLC",
       "source": "delaware",
       "source_id": "0002127035",
@@ -4181,29 +3607,31 @@
       "month": "2026-04"
     },
     {
-      "name": "Venus Concept Inc.  (VERO)",
+      "name": "Cosmos Fund LLC",
       "source": "delaware",
-      "source_id": "0001409269",
+      "source_id": "0002026199",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-04-09",
+      "formation_date": "2026-04-22",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0001409269"
+        "SEC EDGAR CIK 0002026199"
       ],
       "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0001409269",
-        "accession": "0000912282-26-000569:primary_doc.xml",
-        "file_date": "2026-04-09",
+        "cik": "0002026199",
+        "accession": "0002026199-26-000005:primary_doc.xml",
+        "file_date": "2026-04-22",
         "file_type": "D",
         "inc_states": [
           "DE"
         ],
-        "biz_states": [],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001409269&type=D",
+        "biz_states": [
+          "FL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002026199&type=D",
         "registry": "SEC EDGAR"
       },
       "ai_score": 0.0,
@@ -4215,67 +3643,27 @@
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-6b4d4d63e665",
+      "id": "delaware-4bb01a416155",
       "month": "2026-04"
     },
     {
-      "name": "THIRD POINT PARTNERS QUALIFIED L P",
+      "name": "Griffin Capital (Union - Kansas City, MO) DST",
       "source": "delaware",
-      "source_id": "0001341499",
+      "source_id": "0002104228",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-18",
+      "formation_date": "2026-04-22",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0001341499"
+        "SEC EDGAR CIK 0002104228"
       ],
       "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0001341499",
-        "accession": "0001341499-26-000001:primary_doc.xml",
-        "file_date": "2026-03-18",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "NY"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001341499&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-081c1019ddd3",
-      "month": "2026-03"
-    },
-    {
-      "name": "IRONWOOD PARTNERS LP",
-      "source": "delaware",
-      "source_id": "0000884031",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-17",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0000884031"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0000884031",
-        "accession": "0000905148-26-001308:primary_doc.xml",
-        "file_date": "2026-03-17",
+        "cik": "0002104228",
+        "accession": "0002104228-26-000007:primary_doc.xml",
+        "file_date": "2026-04-22",
         "file_type": "D/A",
         "inc_states": [
           "DE"
@@ -4283,7 +3671,7 @@
         "biz_states": [
           "CA"
         ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000884031&type=D",
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002104228&type=D",
         "registry": "SEC EDGAR"
       },
       "ai_score": 0.0,
@@ -4295,27 +3683,107 @@
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-dad28cb95a7a",
-      "month": "2026-03"
+      "id": "delaware-ef173abc1a5c",
+      "month": "2026-04"
     },
     {
-      "name": "NEW YORK LIFE INSURANCE & ANNUITY CORP",
+      "name": "BV Ernest Health Neuro Rehab DST",
       "source": "delaware",
-      "source_id": "0000727136",
+      "source_id": "0002067406",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-11",
+      "formation_date": "2026-04-22",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0000727136"
+        "SEC EDGAR CIK 0002067406"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002067406",
+        "accession": "0002067406-26-000001:primary_doc.xml",
+        "file_date": "2026-04-22",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "TX"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002067406&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-2ed21554b310",
+      "month": "2026-04"
+    },
+    {
+      "name": "Starwood Multifamily Portfolio Exchange I, D.S.T.",
+      "source": "delaware",
+      "source_id": "0002019884",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-21",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002019884"
+      ],
+      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+      "raw": {
+        "cik": "0002019884",
+        "accession": "0002019884-26-000004:primary_doc.xml",
+        "file_date": "2026-04-21",
+        "file_type": "D/A",
+        "inc_states": [
+          "DE"
+        ],
+        "biz_states": [
+          "FL"
+        ],
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002019884&type=D",
+        "registry": "SEC EDGAR"
+      },
+      "ai_score": 0.0,
+      "is_ai": false,
+      "ai_signals": [],
+      "ai_category": "",
+      "memo": null,
+      "founders": [],
+      "scores": null,
+      "competitive": null,
+      "recommendation": null,
+      "id": "delaware-159db6f122bc",
+      "month": "2026-04"
+    },
+    {
+      "name": "EquityZen Growth Technology Fund LLC - Series 2298",
+      "source": "delaware",
+      "source_id": "0002122266",
+      "jurisdiction": "Delaware, USA",
+      "formation_date": "2026-04-17",
+      "discovered_date": "2026-05-31",
+      "website": null,
+      "website_verified": false,
+      "verified_real": true,
+      "verification": [
+        "SEC EDGAR CIK 0002122266"
       ],
       "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0000727136",
-        "accession": "0000727136-26-000005:primary_doc.xml",
-        "file_date": "2026-03-11",
+        "cik": "0002122266",
+        "accession": "0002122266-26-000001:primary_doc.xml",
+        "file_date": "2026-04-17",
         "file_type": "D",
         "inc_states": [
           "DE"
@@ -4323,7 +3791,7 @@
         "biz_states": [
           "NY"
         ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000727136&type=D",
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002122266&type=D",
         "registry": "SEC EDGAR"
       },
       "ai_score": 0.0,
@@ -4335,107 +3803,27 @@
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-6d6d7fe4abd5",
-      "month": "2026-03"
+      "id": "delaware-411d2797eb0a",
+      "month": "2026-04"
     },
     {
-      "name": "Belnova Capital Fund LLC",
+      "name": "AG Realty Value Fund XI (A), L.P.",
       "source": "delaware",
-      "source_id": "0002030239",
+      "source_id": "0001921515",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-10",
+      "formation_date": "2026-04-17",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0002030239"
+        "SEC EDGAR CIK 0001921515"
       ],
       "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0002030239",
-        "accession": "0000945621-26-000432:primary_doc.xml",
-        "file_date": "2026-03-10",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "MA"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002030239&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-fe91def438b4",
-      "month": "2026-03"
-    },
-    {
-      "name": "Wheaton Multifamily DST",
-      "source": "delaware",
-      "source_id": "0002047612",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-09",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002047612"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002047612",
-        "accession": "0002047612-26-000001:primary_doc.xml",
-        "file_date": "2026-03-09",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "IL"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002047612&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-fbf83920d1b7",
-      "month": "2026-03"
-    },
-    {
-      "name": "BREX Briggs MF DST",
-      "source": "delaware",
-      "source_id": "0002083653",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-03-09",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002083653"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002083653",
-        "accession": "0002083653-26-000002:primary_doc.xml",
-        "file_date": "2026-03-09",
+        "cik": "0001921515",
+        "accession": "0001921515-26-000001:primary_doc.xml",
+        "file_date": "2026-04-17",
         "file_type": "D/A",
         "inc_states": [
           "DE"
@@ -4443,7 +3831,7 @@
         "biz_states": [
           "NY"
         ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083653&type=D",
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001921515&type=D",
         "registry": "SEC EDGAR"
       },
       "ai_score": 0.0,
@@ -4455,67 +3843,27 @@
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-26c93e634f0c",
-      "month": "2026-03"
+      "id": "delaware-df27b0ad49a4",
+      "month": "2026-04"
     },
     {
-      "name": "Equitybee 22-89967, a Series of Equitybee cFund Master LLC",
+      "name": "AG Realty Value Fund XI, L.P.",
       "source": "delaware",
-      "source_id": "0001956081",
+      "source_id": "0001922070",
       "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-24",
+      "formation_date": "2026-04-17",
       "discovered_date": "2026-05-31",
       "website": null,
       "website_verified": false,
       "verified_real": true,
       "verification": [
-        "SEC EDGAR CIK 0001956081"
+        "SEC EDGAR CIK 0001922070"
       ],
       "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
       "raw": {
-        "cik": "0001956081",
-        "accession": "0001956081-26-000001:primary_doc.xml",
-        "file_date": "2026-02-24",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "UT"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001956081&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-dc2ad974facf",
-      "month": "2026-02"
-    },
-    {
-      "name": "SPF Securitized Products Fund L.P.",
-      "source": "delaware",
-      "source_id": "0001549885",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-24",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0001549885"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0001549885",
-        "accession": "0001549885-26-000001:primary_doc.xml",
-        "file_date": "2026-02-24",
+        "cik": "0001922070",
+        "accession": "0001922070-26-000001:primary_doc.xml",
+        "file_date": "2026-04-17",
         "file_type": "D/A",
         "inc_states": [
           "DE"
@@ -4523,7 +3871,7 @@
         "biz_states": [
           "NY"
         ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001549885&type=D",
+        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001922070&type=D",
         "registry": "SEC EDGAR"
       },
       "ai_score": 0.0,
@@ -4535,126 +3883,8 @@
       "scores": null,
       "competitive": null,
       "recommendation": null,
-      "id": "delaware-84032dc299db",
-      "month": "2026-02"
-    },
-    {
-      "name": "Pontux Inc.",
-      "source": "delaware",
-      "source_id": "0002111935",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-18",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002111935"
-      ],
-      "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002111935",
-        "accession": "0002111935-26-000001:primary_doc.xml",
-        "file_date": "2026-02-18",
-        "file_type": "D",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002111935&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-fa1b0891de22",
-      "month": "2026-02"
-    },
-    {
-      "name": "CF Chestnut Street Multifamily DST",
-      "source": "delaware",
-      "source_id": "0002067951",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-13",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002067951"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002067951",
-        "accession": "0002067951-26-000001:primary_doc.xml",
-        "file_date": "2026-02-13",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "NY"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002067951&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-70c1c9074547",
-      "month": "2026-02"
-    },
-    {
-      "name": "Griffin Capital (Heritage - Gonzales, LA) DST",
-      "source": "delaware",
-      "source_id": "0002074085",
-      "jurisdiction": "Delaware, USA",
-      "formation_date": "2026-02-06",
-      "discovered_date": "2026-05-31",
-      "website": null,
-      "website_verified": false,
-      "verified_real": true,
-      "verification": [
-        "SEC EDGAR CIK 0002074085"
-      ],
-      "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-      "raw": {
-        "cik": "0002074085",
-        "accession": "0002074085-26-000001:primary_doc.xml",
-        "file_date": "2026-02-06",
-        "file_type": "D/A",
-        "inc_states": [
-          "DE"
-        ],
-        "biz_states": [
-          "CA"
-        ],
-        "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002074085&type=D",
-        "registry": "SEC EDGAR"
-      },
-      "ai_score": 0.0,
-      "is_ai": false,
-      "ai_signals": [],
-      "ai_category": "",
-      "memo": null,
-      "founders": [],
-      "scores": null,
-      "competitive": null,
-      "recommendation": null,
-      "id": "delaware-6488b6a335db",
-      "month": "2026-02"
+      "id": "delaware-60fac5cdcd3d",
+      "month": "2026-04"
     }
   ]
 }
