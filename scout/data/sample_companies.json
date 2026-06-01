@@ -1,5 +1,297 @@
 [
   {
+    "name": "KKR Private Equity Conglomerate LLC",
+    "source": "delaware",
+    "source_id": "0001957845",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-06-01",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $10,159,286,124 raised (Growth).",
+    "raw": {
+      "cik": "0001957845",
+      "accession": "0001957845-26-000047:primary_doc.xml",
+      "file_date": "2026-06-01",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "NY"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001957845&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other",
+      "is_fund": false,
+      "offering_amount": null,
+      "amount_sold": 10159286124,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1957845/000195784526000047/primary_doc.xml",
+      "stage": "Growth"
+    },
+    "founders": [
+      {
+        "name": "Nathaniel Taylor",
+        "role": "Director",
+        "location": "Menlo Park, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nathaniel%20Taylor%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Peter Stavros",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Peter%20Stavros%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Christopher Harrington",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Christopher%20Harrington%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Alisa Wood",
+        "role": "Executive Officer, Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alisa%20Wood%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Elizabeth Van Aken",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Elizabeth%20Van%20Aken%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Susan Schnabel",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Susan%20Schnabel%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Ronald Schmitz",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ronald%20Schmitz%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Kelly Williams",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kelly%20Williams%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Jeffrey Van Horn",
+        "role": "Executive Officer",
+        "location": "San Francisco, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jeffrey%20Van%20Horn%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Thomas Naratil",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Thomas%20Naratil%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Sung Cho",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sung%20Cho%20KKR%20Private%20Equity%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Growth"
+  },
+  {
+    "name": "KKR Infrastructure Conglomerate LLC",
+    "source": "delaware",
+    "source_id": "0001948056",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-06-01",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $7,443,571,084 raised (Growth).",
+    "raw": {
+      "cik": "0001948056",
+      "accession": "0001948056-26-000042:primary_doc.xml",
+      "file_date": "2026-06-01",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "NY"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001948056&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other",
+      "is_fund": false,
+      "offering_amount": null,
+      "amount_sold": 7443571084,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1948056/000194805626000042/primary_doc.xml",
+      "stage": "Growth"
+    },
+    "founders": [
+      {
+        "name": "Raj Agrawal",
+        "role": "Director",
+        "location": "Menlo Park, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Raj%20Agrawal%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Tara Davies",
+        "role": "Executive Officer, Director",
+        "location": "London, X0",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Tara%20Davies%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "James Cunningham",
+        "role": "Executive Officer, Director",
+        "location": "Houston, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Cunningham%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Michael Ryan",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Ryan%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Joshua Mills",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joshua%20Mills%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Philip Nolan",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Philip%20Nolan%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "John Somerhalder II",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=John%20Somerhalder%20II%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Mark Matthews",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mark%20Matthews%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Sung Cho",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sung%20Cho%20KKR%20Infrastructure%20Conglomerate%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Growth"
+  },
+  {
+    "name": "HIG Holdings, LLC",
+    "source": "delaware",
+    "source_id": "0001479577",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-06-01",
+    "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $41,000,000 raised (Series B).",
+    "raw": {
+      "cik": "0001479577",
+      "accession": "0001479577-26-000004:primary_doc.xml",
+      "file_date": "2026-06-01",
+      "file_type": "D",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "TX"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001479577&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Insurance",
+      "is_fund": false,
+      "offering_amount": 41000000,
+      "amount_sold": 41000000,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1479577/000147957726000004/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "James Reid",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Reid%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "James Krause",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Krause%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Andrew Reutter",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrew%20Reutter%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Christopher Rooker",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Christopher%20Rooker%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Michael Parks",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Parks%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "James Hubbard",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=James%20Hubbard%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Mary Russell",
+        "role": "Executive Officer, Director",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mary%20Russell%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Anthony Haas",
+        "role": "Executive Officer",
+        "location": "Fort Worth, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anthony%20Haas%20HIG%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "474 Holdco LLC",
     "source": "delaware",
     "source_id": "0002131060",
@@ -6780,37 +7072,6 @@
     "stage": "Series B"
   },
   {
-    "name": "PG Omaha Landmark DST",
-    "source": "delaware",
-    "source_id": "0002103944",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-30",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $27,556,871 raised (Series B).",
-    "raw": {
-      "cik": "0002103944",
-      "accession": "0002103944-26-000002:primary_doc.xml",
-      "file_date": "2026-03-30",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "GA"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103944&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 27556871,
-      "amount_sold": 27556871,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2103944/000210394426000002/primary_doc.xml",
-      "stage": "Series B"
-    },
-    "founders": [],
-    "stage": "Series B"
-  },
-  {
     "name": "Lucem Health, Inc.",
     "source": "delaware",
     "source_id": "0001971026",
@@ -7349,45 +7610,6 @@
     "stage": "Series B"
   },
   {
-    "name": "Union Multifamily DST",
-    "source": "delaware",
-    "source_id": "0002057288",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-20",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $83,672,415 raised (Growth).",
-    "raw": {
-      "cik": "0002057288",
-      "accession": "0002057288-26-000002:primary_doc.xml",
-      "file_date": "2026-03-20",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "IL"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057288&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 83672415,
-      "amount_sold": 83672415,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2057288/000205728826000002/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Matthew Fries",
-        "role": "Executive Officer",
-        "location": "Oak Brook, IL",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Matthew%20Fries%20Union%20Multifamily%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
-  },
-  {
     "name": "Sundance Bay Income & Growth OP, LP",
     "source": "delaware",
     "source_id": "0001852772",
@@ -7760,87 +7982,6 @@
         "role": "Promoter",
         "location": "New York, NY",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Anthony%20Ramos%20Integris%20AI%20Healthcare%20Group%2C%20Inc.",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
-  },
-  {
-    "name": "MDS 2025-Shale Development, LP",
-    "source": "delaware",
-    "source_id": "0002059990",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-17",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $246,314,916 raised (Growth).",
-    "raw": {
-      "cik": "0002059990",
-      "accession": "0002059990-26-000002:primary_doc.xml",
-      "file_date": "2026-03-17",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "PA"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002059990&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Oil and Gas",
-      "is_fund": false,
-      "offering_amount": 300000000,
-      "amount_sold": 246314916,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2059990/000205999026000002/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Michael Snyder",
-        "role": "Executive Officer, Promoter",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Snyder%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Randall Morris",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Randall%20Morris%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Michael Knapp",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Knapp%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Richard Saadeh",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Richard%20Saadeh%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Woody Soemantoro",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Woody%20Soemantoro%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Zachary Avi",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zachary%20Avi%20MDS%202025-Shale%20Development%2C%20LP",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Heather Rogerson",
-        "role": "Executive Officer",
-        "location": "Pittsburgh, PA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Heather%20Rogerson%20MDS%202025-Shale%20Development%2C%20LP",
         "source": "sec_filing"
       }
     ],
@@ -8332,186 +8473,6 @@
     "stage": "Series B"
   },
   {
-    "name": "OSP Lakeside Management Aggregator, LLC",
-    "source": "delaware",
-    "source_id": "0001821322",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-13",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-    "raw": {
-      "cik": "0001821322",
-      "accession": "0000950172-26-000116:primary_doc.xml",
-      "file_date": "2026-03-13",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "NY"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821322&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other",
-      "is_fund": false,
-      "offering_amount": null,
-      "amount_sold": 0,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1821322/000095017226000116/primary_doc.xml",
-      "stage": "Stealth / Pre-seed"
-    },
-    "founders": [
-      {
-        "name": "Joe Benavides",
-        "role": "Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joe%20Benavides%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Rupinder Dang",
-        "role": "Director",
-        "location": "Bannockburn, IL",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rupinder%20Dang%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Theodore Coons",
-        "role": "Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Coons%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "David Stein",
-        "role": "Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=David%20Stein%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Stealth / Pre-seed"
-  },
-  {
-    "name": "OSP Lakeside Holdings, LLC",
-    "source": "delaware",
-    "source_id": "0001821321",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-13",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
-    "raw": {
-      "cik": "0001821321",
-      "accession": "0000950172-26-000117:primary_doc.xml",
-      "file_date": "2026-03-13",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "NY"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821321&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other",
-      "is_fund": false,
-      "offering_amount": null,
-      "amount_sold": 0,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1821321/000095017226000117/primary_doc.xml",
-      "stage": "Stealth / Pre-seed"
-    },
-    "founders": [
-      {
-        "name": "Joe Benavides",
-        "role": "Executive Officer, Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joe%20Benavides%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Rupinder Dang",
-        "role": "Director",
-        "location": "Bannockburn, IL",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rupinder%20Dang%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Theodore Coons",
-        "role": "Executive Officer, Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Coons%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "David Stein",
-        "role": "Executive Officer, Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=David%20Stein%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Marc Brown",
-        "role": "Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marc%20Brown%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Jeff Kelly",
-        "role": "Director",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jeff%20Kelly%20OSP%20Lakeside%20Holdings%2C%20LLC",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Stealth / Pre-seed"
-  },
-  {
-    "name": "Griffin Capital (Heritage - Gonzales, LA) DST",
-    "source": "delaware",
-    "source_id": "0002074085",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-12",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $36,802,558 raised (Series B).",
-    "raw": {
-      "cik": "0002074085",
-      "accession": "0002074085-26-000002:primary_doc.xml",
-      "file_date": "2026-03-12",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "CA"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002074085&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 37129367,
-      "amount_sold": 36802558,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2074085/000207408526000002/primary_doc.xml",
-      "stage": "Series B"
-    },
-    "founders": [
-      {
-        "name": "Kevin Shields",
-        "role": "Executive Officer",
-        "location": "El Segundo, CA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kevin%20Shields%20Griffin%20Capital%20%28Heritage%20-%20Gonzales%2C%20LA%29%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Nick Rosenthal",
-        "role": "Executive Officer",
-        "location": "El Segundo, CA",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nick%20Rosenthal%20Griffin%20Capital%20%28Heritage%20-%20Gonzales%2C%20LA%29%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Series B"
-  },
-  {
     "name": "Crafty Holdings, Inc.",
     "source": "delaware",
     "source_id": "0001740560",
@@ -8994,37 +8955,6 @@
     "stage": "Series A"
   },
   {
-    "name": "AIREX Portfolio 10 DST",
-    "source": "delaware",
-    "source_id": "0002088595",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-11",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $114,732,361 raised (Growth).",
-    "raw": {
-      "cik": "0002088595",
-      "accession": "0002088595-26-000002:primary_doc.xml",
-      "file_date": "2026-03-11",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "CO"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002088595&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 246721763,
-      "amount_sold": 114732361,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2088595/000208859526000002/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [],
-    "stage": "Growth"
-  },
-  {
     "name": "CF Landings Multifamily DST",
     "source": "delaware",
     "source_id": "0002073265",
@@ -9054,45 +8984,6 @@
     },
     "founders": [],
     "stage": "Series B"
-  },
-  {
-    "name": "Blue Owl Real Estate Exchange IV DST",
-    "source": "delaware",
-    "source_id": "0002089871",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-11",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $232,289,994 raised (Growth).",
-    "raw": {
-      "cik": "0002089871",
-      "accession": "0002089871-26-000004:primary_doc.xml",
-      "file_date": "2026-03-11",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "IL"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002089871&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 247169811,
-      "amount_sold": 232289994,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2089871/000208987126000004/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Neena Reddy",
-        "role": "Executive Officer",
-        "location": "Chicago, IL",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Neena%20Reddy%20Blue%20Owl%20Real%20Estate%20Exchange%20IV%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
   },
   {
     "name": "T3 Defense Inc.  (DFNS, DFNSW)",
@@ -9296,119 +9187,6 @@
     "stage": "Seed"
   },
   {
-    "name": "IREX IV Industrial Portfolio DST",
-    "source": "delaware",
-    "source_id": "0002098000",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-10",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $80,134,031 raised (Growth).",
-    "raw": {
-      "cik": "0002098000",
-      "accession": "0002098000-26-000003:primary_doc.xml",
-      "file_date": "2026-03-10",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "TX"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002098000&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Commercial",
-      "is_fund": false,
-      "offering_amount": 93978495,
-      "amount_sold": 80134031,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2098000/000209800026000003/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Stephanie Holder",
-        "role": "Executive Officer",
-        "location": "Dallas, TX",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stephanie%20Holder%20IREX%20IV%20Industrial%20Portfolio%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
-  },
-  {
-    "name": "BREX Briggs MF DST",
-    "source": "delaware",
-    "source_id": "0002083653",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-09",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $77,592,879 raised (Growth).",
-    "raw": {
-      "cik": "0002083653",
-      "accession": "0002083653-26-000002:primary_doc.xml",
-      "file_date": "2026-03-09",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "NY"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083653&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 79916131,
-      "amount_sold": 77592879,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2083653/000208365326000002/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Brian Kingston",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Brian%20Kingston%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Dana Petitto",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dana%20Petitto%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Theodore Hanno",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Hanno%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Melissa Lang",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Melissa%20Lang%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Michelle Campbell",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michelle%20Campbell%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      },
-      {
-        "name": "Sara Beugelmans",
-        "role": "Executive Officer",
-        "location": "New York, NY",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sara%20Beugelmans%20BREX%20Briggs%20MF%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
-  },
-  {
     "name": "Wheaton Multifamily DST",
     "source": "delaware",
     "source_id": "0002047612",
@@ -9442,45 +9220,6 @@
         "role": "Executive Officer",
         "location": "Oak Brook, IL",
         "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Keith%20Lampi%20Wheaton%20Multifamily%20DST",
-        "source": "sec_filing"
-      }
-    ],
-    "stage": "Growth"
-  },
-  {
-    "name": "Inland Oklahoma Student Housing DST",
-    "source": "delaware",
-    "source_id": "0002087972",
-    "jurisdiction": "Delaware, USA",
-    "formation_date": "2026-03-09",
-    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $77,577,344 raised (Growth).",
-    "raw": {
-      "cik": "0002087972",
-      "accession": "0002087972-26-000002:primary_doc.xml",
-      "file_date": "2026-03-09",
-      "file_type": "D/A",
-      "inc_states": [
-        "DE"
-      ],
-      "biz_states": [
-        "IL"
-      ],
-      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002087972&type=D",
-      "registry": "SEC EDGAR",
-      "industry_group": "Other Real Estate",
-      "is_fund": false,
-      "offering_amount": 83854192,
-      "amount_sold": 77577344,
-      "revenue_range": "",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/2087972/000208797226000002/primary_doc.xml",
-      "stage": "Growth"
-    },
-    "founders": [
-      {
-        "name": "Matthew Fries",
-        "role": "Executive Officer",
-        "location": "Oak Brook, IL",
-        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Matthew%20Fries%20Inland%20Oklahoma%20Student%20Housing%20DST",
         "source": "sec_filing"
       }
     ],
@@ -11620,6 +11359,45 @@
     "stage": "Seed"
   },
   {
+    "name": "IREX IV Industrial Portfolio DST",
+    "source": "delaware",
+    "source_id": "0002098000",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-02-13",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $41,482,337 raised (Series B).",
+    "raw": {
+      "cik": "0002098000",
+      "accession": "0002098000-26-000002:primary_doc.xml",
+      "file_date": "2026-02-13",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "TX"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002098000&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Commercial",
+      "is_fund": false,
+      "offering_amount": 93978495,
+      "amount_sold": 41482337,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2098000/000209800026000002/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "Stephanie Holder",
+        "role": "Executive Officer",
+        "location": "Dallas, TX",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Stephanie%20Holder%20IREX%20IV%20Industrial%20Portfolio%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "CF Chestnut Street Multifamily DST",
     "source": "delaware",
     "source_id": "0002067951",
@@ -12629,6 +12407,52 @@
     "stage": "Series B"
   },
   {
+    "name": "Griffin Capital (Heritage - Gonzales, LA) DST",
+    "source": "delaware",
+    "source_id": "0002074085",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-02-06",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $36,582,058 raised (Series B).",
+    "raw": {
+      "cik": "0002074085",
+      "accession": "0002074085-26-000001:primary_doc.xml",
+      "file_date": "2026-02-06",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "CA"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002074085&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 37129367,
+      "amount_sold": 36582058,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2074085/000207408526000001/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "Kevin Shields",
+        "role": "Executive Officer",
+        "location": "El Segundo, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Kevin%20Shields%20Griffin%20Capital%20%28Heritage%20-%20Gonzales%2C%20LA%29%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Nick Rosenthal",
+        "role": "Executive Officer",
+        "location": "El Segundo, CA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nick%20Rosenthal%20Griffin%20Capital%20%28Heritage%20-%20Gonzales%2C%20LA%29%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "DCC Real Estate Middle Market Credit Fund REIT, LLC",
     "source": "delaware",
     "source_id": "0002108620",
@@ -12740,6 +12564,45 @@
       }
     ],
     "stage": "Pre-seed"
+  },
+  {
+    "name": "Blue Owl Real Estate Exchange IV DST",
+    "source": "delaware",
+    "source_id": "0002089871",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-02-05",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $185,459,539 raised (Growth).",
+    "raw": {
+      "cik": "0002089871",
+      "accession": "0002089871-26-000002:primary_doc.xml",
+      "file_date": "2026-02-05",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "IL"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002089871&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 247169811,
+      "amount_sold": 185459539,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2089871/000208987126000002/primary_doc.xml",
+      "stage": "Growth"
+    },
+    "founders": [
+      {
+        "name": "Neena Reddy",
+        "role": "Executive Officer",
+        "location": "Chicago, IL",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Neena%20Reddy%20Blue%20Owl%20Real%20Estate%20Exchange%20IV%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Growth"
   },
   {
     "name": "ALT Student Housing DST",
@@ -14559,6 +14422,80 @@
     "stage": "Pre-seed"
   },
   {
+    "name": "BREX Briggs MF DST",
+    "source": "delaware",
+    "source_id": "0002083653",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-28",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $64,274,739 raised (Series B).",
+    "raw": {
+      "cik": "0002083653",
+      "accession": "0002083653-26-000001:primary_doc.xml",
+      "file_date": "2026-01-28",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "NY"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083653&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 79916131,
+      "amount_sold": 64274739,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2083653/000208365326000001/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "Brian Kingston",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Brian%20Kingston%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Dana Petitto",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dana%20Petitto%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Theodore Hanno",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Hanno%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Melissa Lang",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Melissa%20Lang%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Michelle Campbell",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michelle%20Campbell%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Sara Beugelmans",
+        "role": "Executive Officer",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sara%20Beugelmans%20BREX%20Briggs%20MF%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "HSRE Feeder R X, LLC",
     "source": "delaware",
     "source_id": "0002106467",
@@ -15421,6 +15358,87 @@
     "stage": "Pre-seed"
   },
   {
+    "name": "MDS 2025-Shale Development, LP",
+    "source": "delaware",
+    "source_id": "0002059990",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-22",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $232,104,126 raised (Growth).",
+    "raw": {
+      "cik": "0002059990",
+      "accession": "0002059990-26-000001:primary_doc.xml",
+      "file_date": "2026-01-22",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "PA"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002059990&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Oil and Gas",
+      "is_fund": false,
+      "offering_amount": 300000000,
+      "amount_sold": 232104126,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2059990/000205999026000001/primary_doc.xml",
+      "stage": "Growth"
+    },
+    "founders": [
+      {
+        "name": "Michael Snyder",
+        "role": "Executive Officer, Promoter",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Snyder%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Randall Morris",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Randall%20Morris%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Michael Knapp",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Michael%20Knapp%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Richard Saadeh",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Richard%20Saadeh%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Woody Soemantoro",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Woody%20Soemantoro%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Zachary Avi",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Zachary%20Avi%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Heather Rogerson",
+        "role": "Executive Officer",
+        "location": "Pittsburgh, PA",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Heather%20Rogerson%20MDS%202025-Shale%20Development%2C%20LP",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Growth"
+  },
+  {
     "name": "Orenda, Inc.",
     "source": "delaware",
     "source_id": "0001811741",
@@ -15687,6 +15705,37 @@
       }
     ],
     "stage": "Seed"
+  },
+  {
+    "name": "AIREX Portfolio 10 DST",
+    "source": "delaware",
+    "source_id": "0002088595",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-20",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $45,952,153 raised (Series B).",
+    "raw": {
+      "cik": "0002088595",
+      "accession": "0002088595-26-000001:primary_doc.xml",
+      "file_date": "2026-01-20",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "CO"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002088595&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 246721763,
+      "amount_sold": 45952153,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2088595/000208859526000001/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [],
+    "stage": "Series B"
   },
   {
     "name": "Engaged Citizen Inc.",
@@ -15997,6 +16046,140 @@
       }
     ],
     "stage": "Pre-seed"
+  },
+  {
+    "name": "OSP Lakeside Management Aggregator, LLC",
+    "source": "delaware",
+    "source_id": "0001821322",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-16",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+    "raw": {
+      "cik": "0001821322",
+      "accession": "0000950172-26-000013:primary_doc.xml",
+      "file_date": "2026-01-16",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "NY"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821322&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other",
+      "is_fund": false,
+      "offering_amount": null,
+      "amount_sold": 0,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1821322/000095017226000013/primary_doc.xml",
+      "stage": "Stealth / Pre-seed"
+    },
+    "founders": [
+      {
+        "name": "Joe Benavides",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joe%20Benavides%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Rupinder Dang",
+        "role": "Director",
+        "location": "Bannockburn, IL",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rupinder%20Dang%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Theodore Coons",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Coons%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "David Stein",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=David%20Stein%20OSP%20Lakeside%20Management%20Aggregator%2C%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Stealth / Pre-seed"
+  },
+  {
+    "name": "OSP Lakeside Holdings, LLC",
+    "source": "delaware",
+    "source_id": "0001821321",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-16",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering).",
+    "raw": {
+      "cik": "0001821321",
+      "accession": "0000950172-26-000014:primary_doc.xml",
+      "file_date": "2026-01-16",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "NY"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001821321&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other",
+      "is_fund": false,
+      "offering_amount": null,
+      "amount_sold": 0,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1821321/000095017226000014/primary_doc.xml",
+      "stage": "Stealth / Pre-seed"
+    },
+    "founders": [
+      {
+        "name": "Joe Benavides",
+        "role": "Executive Officer, Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joe%20Benavides%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Rupinder Dang",
+        "role": "Director",
+        "location": "Bannockburn, IL",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rupinder%20Dang%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Theodore Coons",
+        "role": "Executive Officer, Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Theodore%20Coons%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "David Stein",
+        "role": "Executive Officer, Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=David%20Stein%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Marc Brown",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Marc%20Brown%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      },
+      {
+        "name": "Jeff Kelly",
+        "role": "Director",
+        "location": "New York, NY",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jeff%20Kelly%20OSP%20Lakeside%20Holdings%2C%20LLC",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Stealth / Pre-seed"
   },
   {
     "name": "CHANNEL ROBOTICS, INC.",
@@ -16494,6 +16677,84 @@
     "stage": "Pre-seed"
   },
   {
+    "name": "Union Multifamily DST",
+    "source": "delaware",
+    "source_id": "0002057288",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-14",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $83,572,415 raised (Growth).",
+    "raw": {
+      "cik": "0002057288",
+      "accession": "0002057288-26-000001:primary_doc.xml",
+      "file_date": "2026-01-14",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "IL"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057288&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 83672415,
+      "amount_sold": 83572415,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2057288/000205728826000001/primary_doc.xml",
+      "stage": "Growth"
+    },
+    "founders": [
+      {
+        "name": "Ella Neyland",
+        "role": "Executive Officer",
+        "location": "Oak Brook, IL",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ella%20Neyland%20Union%20Multifamily%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Growth"
+  },
+  {
+    "name": "Inland Oklahoma Student Housing DST",
+    "source": "delaware",
+    "source_id": "0002087972",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-14",
+    "description": "Form D/A filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $67,635,629 raised (Series B).",
+    "raw": {
+      "cik": "0002087972",
+      "accession": "0002087972-26-000001:primary_doc.xml",
+      "file_date": "2026-01-14",
+      "file_type": "D/A",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "IL"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002087972&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 83854192,
+      "amount_sold": 67635629,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2087972/000208797226000001/primary_doc.xml",
+      "stage": "Series B"
+    },
+    "founders": [
+      {
+        "name": "Ella Neyland",
+        "role": "Executive Officer",
+        "location": "Oak Brook, IL",
+        "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ella%20Neyland%20Inland%20Oklahoma%20Student%20Housing%20DST",
+        "source": "sec_filing"
+      }
+    ],
+    "stage": "Series B"
+  },
+  {
     "name": "Applied Impact Robotics Inc.",
     "source": "delaware",
     "source_id": "0001845139",
@@ -16665,6 +16926,37 @@
       }
     ],
     "stage": "Growth"
+  },
+  {
+    "name": "PG Omaha Landmark DST",
+    "source": "delaware",
+    "source_id": "0002103944",
+    "jurisdiction": "Delaware, USA",
+    "formation_date": "2026-01-13",
+    "description": "Form D filer on SEC EDGAR incorporated in Delaware (new exempt securities offering). Form D reports $6,602,095 raised (Series A).",
+    "raw": {
+      "cik": "0002103944",
+      "accession": "0002103944-26-000001:primary_doc.xml",
+      "file_date": "2026-01-13",
+      "file_type": "D",
+      "inc_states": [
+        "DE"
+      ],
+      "biz_states": [
+        "GA"
+      ],
+      "edgar_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103944&type=D",
+      "registry": "SEC EDGAR",
+      "industry_group": "Other Real Estate",
+      "is_fund": false,
+      "offering_amount": 27749461,
+      "amount_sold": 6602095,
+      "revenue_range": "",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2103944/000210394426000001/primary_doc.xml",
+      "stage": "Series A"
+    },
+    "founders": [],
+    "stage": "Series A"
   },
   {
     "name": "IDEAL Province DST",
